@@ -1,0 +1,19 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "A back-end REST service.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mszymulanski/langapp.git"
+  },
+  "author": "Michal S. Szymulanski",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/mszymulanski/langapp/issues"
+  },
+  "homepage": "https://github.com/mszymulanski/langapp#readme"
+}
