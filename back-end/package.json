@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mszymulanski/langapp/issues"
   },
-  "homepage": "https://github.com/mszymulanski/langapp#readme"
+  "homepage": "https://github.com/mszymulanski/langapp#readme",
+  "dependencies": {
+    "nconf": "^0.10.0",
+    "nconf-json": "^0.1.1"
+  }
 }
