@@ -2,5 +2,14 @@
 	"APP": {
 		"port": 10000,
 		"host": "127.0.0.1"
+	},
+	"DATABASE": {
+		"MYSQL": {
+			"port": 3306,
+			"host": "127.0.0.1",
+			"user": "admin",
+			"password": "testtest",
+			"database": "langapp"
+		}
 	}
 }
