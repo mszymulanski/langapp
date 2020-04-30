@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mszymulanski/langapp#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "mysql2": "^2.1.0",
     "nconf": "^0.10.0",
     "nconf-json": "^0.1.1",

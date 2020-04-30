@@ -1,3 +1,5 @@
+const express = require('express')()
+
 const config = require('./config')
 const lib = require('./src/lib')
 const sequelize = lib.databaseConnection.sequelize(config.DATABASE.MYSQL)
@@ -6,3 +8,9 @@ const sequelize = lib.databaseConnection.sequelize(config.DATABASE.MYSQL)
 const Http = {}
 
 const { routes, core } = require('./src')(sequelize, Http, config)
+
+express.use('/',  routes)
+
+express.listen(config.APP.port, () => {
+	console.log(`Express listening on port ${config.APP.port}`)
+})
