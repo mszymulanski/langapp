@@ -12,5 +12,5 @@ const { routes, core } = require('./src')(sequelize, Http, config)
 express.use('/',  routes)
 
 express.listen(config.APP.port, () => {
-	console.log(`Express listening on port ${config.APP.port}`)
+	console.log(`${config.APP.name} Express listening on port ${config.APP.port}`)
 })

@@ -4,6 +4,7 @@
   "description": "A back-end REST service.",
   "main": "main.js",
   "scripts": {
+    "start": "./node_modules/.bin/nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,8 @@
     "nconf": "^0.10.0",
     "nconf-json": "^0.1.1",
     "sequelize": "^5.21.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
   }
 }
