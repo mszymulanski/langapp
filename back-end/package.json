@@ -5,6 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "./node_modules/.bin/nodemon",
+    "db:migrate": "node migrate.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,7 +23,8 @@
     "mysql2": "^2.1.0",
     "nconf": "^0.10.0",
     "nconf-json": "^0.1.1",
-    "sequelize": "^5.21.7"
+    "sequelize": "^5.21.7",
+    "umzug": "^2.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
