@@ -1,0 +1,111 @@
+{
+  "title": "Shopping 2",
+  "vocabulary": [
+    {
+      "chinese": "试",
+      "pinyin": "shì",
+      "english": "GT: test"
+    },
+    {
+      "chinese": "蓝",
+      "pinyin": "Lán; lán",
+      "english": "GT: blue"
+    },
+    {
+      "chinese": "条",
+      "pinyin": "tiáo",
+      "english": "GT: article"
+    },
+    {
+      "chinese": "裙",
+      "pinyin": "qún",
+      "english": "GT: skirt"
+    },
+    {
+      "chinese": "裙子",
+      "pinyin": "qún zi",
+      "english": "GT: skirt"
+    },
+    {
+      "chinese": "双",
+      "pinyin": "Shuāng; shuāng",
+      "english": "GT: double"
+    },
+    {
+      "chinese": "鞋子",
+      "pinyin": "xié zi",
+      "english": "GT: Shoe"
+    },
+    {
+      "chinese": "意大利",
+      "pinyin": "Yì dà lì",
+      "english": "GT: Italy"
+    },
+    {
+      "chinese": "色",
+      "pinyin": "sè; shǎi",
+      "english": "GT: color"
+    },
+    {
+      "chinese": "鞋",
+      "pinyin": "xié",
+      "english": "GT: shoe"
+    },
+    {
+      "chinese": "利",
+      "pinyin": "Lì; lì",
+      "english": "GT: Profit"
+    },
+    {
+      "chinese": "比",
+      "pinyin": "Bǐ; bǐ; bì",
+      "english": "GT: ratio"
+    },
+    {
+      "chinese": "衬衫",
+      "pinyin": "chèn shān",
+      "english": "GT: shirt"
+    },
+    {
+      "chinese": "衬",
+      "pinyin": "chèn",
+      "english": "GT: lining"
+    },
+    {
+      "chinese": "衫",
+      "pinyin": "shān",
+      "english": "GT: Shirt"
+    },
+    {
+      "chinese": "裤子",
+      "pinyin": "kù zi",
+      "english": "GT: pants"
+    },
+    {
+      "chinese": "好看",
+      "pinyin": "hǎo kàn",
+      "english": "GT: good looking"
+    },
+    {
+      "chinese": "裤",
+      "pinyin": "kù",
+      "english": "GT: pants"
+    },
+    {
+      "chinese": "质",
+      "pinyin": "zhì",
+      "english": "GT: quality"
+    },
+    {
+      "chinese": "量",
+      "pinyin": "liáng; liàng",
+      "english": "GT: the amount"
+    },
+    {
+      "chinese": "质量",
+      "pinyin": "zhì liàng",
+      "english": "GT: quality"
+    }
+  ],
+  "lessonNumber": null
+}

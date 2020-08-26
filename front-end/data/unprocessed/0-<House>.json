@@ -1,0 +1,101 @@
+{
+  "title": "House",
+  "vocabulary": [
+    {
+      "chinese": "把",
+      "pinyin": "bǎ; bà",
+      "english": "GT: The"
+    },
+    {
+      "chinese": "灯",
+      "pinyin": "dēng",
+      "english": "GT: light"
+    },
+    {
+      "chinese": "空调",
+      "pinyin": "kōng tiáo",
+      "english": "GT: air conditioning"
+    },
+    {
+      "chinese": "画",
+      "pinyin": "huà",
+      "english": "GT: painting"
+    },
+    {
+      "chinese": "厨房",
+      "pinyin": "chú fáng",
+      "english": "GT: kitchen"
+    },
+    {
+      "chinese": "客厅",
+      "pinyin": "kè tīng",
+      "english": "GT: living room"
+    },
+    {
+      "chinese": "厨",
+      "pinyin": "chú",
+      "english": "GT: Kitchen"
+    },
+    {
+      "chinese": "厅",
+      "pinyin": "tīng",
+      "english": "GT: hall"
+    },
+    {
+      "chinese": "客人",
+      "pinyin": "kè rén",
+      "english": "GT: The guests"
+    },
+    {
+      "chinese": "打扫",
+      "pinyin": "dǎ sǎo",
+      "english": "GT: clean"
+    },
+    {
+      "chinese": "干净",
+      "pinyin": "gān jìng",
+      "english": "GT: clean"
+    },
+    {
+      "chinese": "扫",
+      "pinyin": "sǎo; sào",
+      "english": "GT: sweep"
+    },
+    {
+      "chinese": "净",
+      "pinyin": "jìng",
+      "english": "GT: net"
+    },
+    {
+      "chinese": "电梯",
+      "pinyin": "diàn tī",
+      "english": "GT: elevator"
+    },
+    {
+      "chinese": "坏",
+      "pinyin": "huài",
+      "english": "GT: Bad"
+    },
+    {
+      "chinese": "被",
+      "pinyin": "bèi",
+      "english": "GT: Is"
+    },
+    {
+      "chinese": "厕所",
+      "pinyin": "cè suǒ",
+      "english": "GT: WC"
+    },
+    {
+      "chinese": "厕",
+      "pinyin": "cè; sì",
+      "english": "GT: toilet"
+    },
+    {
+      "chinese": "梯",
+      "pinyin": "tī",
+      "english": "GT: ladder"
+    }
+  ],
+  "lessonNumber": null
+}

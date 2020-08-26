@@ -1,0 +1,136 @@
+{
+  "title": "School 2",
+  "vocabulary": [
+    {
+      "chinese": "求",
+      "pinyin": "qiú",
+      "english": "GT: begging"
+    },
+    {
+      "chinese": "校长",
+      "pinyin": "xiào zhǎng",
+      "english": "GT: principal"
+    },
+    {
+      "chinese": "要求",
+      "pinyin": "yāo qiú",
+      "english": "GT: Claim"
+    },
+    {
+      "chinese": "食堂",
+      "pinyin": "shí táng",
+      "english": "GT: Cafeteria"
+    },
+    {
+      "chinese": "食",
+      "pinyin": "shí; sì",
+      "english": "GT: food"
+    },
+    {
+      "chinese": "堂",
+      "pinyin": "táng",
+      "english": "GT: Hall"
+    },
+    {
+      "chinese": "必须",
+      "pinyin": "bì xū",
+      "english": "GT: have to"
+    },
+    {
+      "chinese": "完成",
+      "pinyin": "wán chéng",
+      "english": "GT: carry out"
+    },
+    {
+      "chinese": "作业",
+      "pinyin": "zuò yè",
+      "english": "GT: operation"
+    },
+    {
+      "chinese": "高中",
+      "pinyin": "gāo zhōng; gāo zhòng",
+      "english": "GT: Senior middle school"
+    },
+    {
+      "chinese": "必",
+      "pinyin": "bì",
+      "english": "GT: must"
+    },
+    {
+      "chinese": "成",
+      "pinyin": "Chéng; chéng",
+      "english": "GT: to make"
+    },
+    {
+      "chinese": "须",
+      "pinyin": "xū; xū",
+      "english": "GT: must"
+    },
+    {
+      "chinese": "业",
+      "pinyin": "Yè; yè",
+      "english": "GT: industry"
+    },
+    {
+      "chinese": "向",
+      "pinyin": "Xiàng; xiàng; xiàng",
+      "english": "GT: to"
+    },
+    {
+      "chinese": "借",
+      "pinyin": "jiè",
+      "english": "GT: borrow"
+    },
+    {
+      "chinese": "笔记",
+      "pinyin": "bǐ jì",
+      "english": "GT: notes"
+    },
+    {
+      "chinese": "铅笔",
+      "pinyin": "qiān bǐ",
+      "english": "GT: pencil"
+    },
+    {
+      "chinese": "铅",
+      "pinyin": "qiān",
+      "english": "GT: lead"
+    },
+    {
+      "chinese": "清楚",
+      "pinyin": "qīng chu",
+      "english": "GT: clear"
+    },
+    {
+      "chinese": "黑板",
+      "pinyin": "hēi bǎn",
+      "english": "GT: blackboard"
+    },
+    {
+      "chinese": "笔记本",
+      "pinyin": "bǐ jì běn",
+      "english": "GT: notebook"
+    },
+    {
+      "chinese": "清",
+      "pinyin": "Qīng; qīng",
+      "english": "GT: clear"
+    },
+    {
+      "chinese": "楚",
+      "pinyin": "Chǔ; chǔ",
+      "english": "GT: Chu"
+    },
+    {
+      "chinese": "板",
+      "pinyin": "bǎn; bǎn; pàn",
+      "english": "GT: board"
+    },
+    {
+      "chinese": "体育馆",
+      "pinyin": "tǐ yù guǎn",
+      "english": "GT: stadium"
+    }
+  ],
+  "lessonNumber": null
+}

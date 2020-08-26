@@ -1,0 +1,91 @@
+{
+  "title": "Time 4",
+  "vocabulary": [
+    {
+      "chinese": "夏",
+      "pinyin": "Xià; xià",
+      "english": "GT: summer"
+    },
+    {
+      "chinese": "冬",
+      "pinyin": "dōng; Dōng; dōng",
+      "english": "GT: winter"
+    },
+    {
+      "chinese": "秋",
+      "pinyin": "Qiū; qiū; qiū",
+      "english": "GT: autumn"
+    },
+    {
+      "chinese": "季",
+      "pinyin": "Jì; jì",
+      "english": "GT: season"
+    },
+    {
+      "chinese": "澳",
+      "pinyin": "Ào; ào",
+      "english": "GT: Australia"
+    },
+    {
+      "chinese": "亚",
+      "pinyin": "yà",
+      "english": "GT: Asia"
+    },
+    {
+      "chinese": "季节",
+      "pinyin": "jì jié",
+      "english": "GT: season"
+    },
+    {
+      "chinese": "澳大利亚",
+      "pinyin": "Ào dà lì yà",
+      "english": "GT: Australia"
+    },
+    {
+      "chinese": "越来越",
+      "pinyin": "yuè lái yuè",
+      "english": "GT: More"
+    },
+    {
+      "chinese": "前天",
+      "pinyin": "qián tiān",
+      "english": "GT: The day before yesterday"
+    },
+    {
+      "chinese": "后天",
+      "pinyin": "hòu tiān",
+      "english": "GT: acquired"
+    },
+    {
+      "chinese": "堵车",
+      "pinyin": "dǔ chē",
+      "english": "GT: Traffic jam"
+    },
+    {
+      "chinese": "大概",
+      "pinyin": "dà gài",
+      "english": "GT: probably"
+    },
+    {
+      "chinese": "准时",
+      "pinyin": "zhǔn shí",
+      "english": "GT: on time"
+    },
+    {
+      "chinese": "刚",
+      "pinyin": "gāng",
+      "english": "GT: just"
+    },
+    {
+      "chinese": "堵",
+      "pinyin": "dǔ",
+      "english": "GT: Blocking"
+    },
+    {
+      "chinese": "概",
+      "pinyin": "gài",
+      "english": "GT: General"
+    }
+  ],
+  "lessonNumber": null
+}

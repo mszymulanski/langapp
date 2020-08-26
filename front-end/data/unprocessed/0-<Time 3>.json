@@ -1,0 +1,51 @@
+{
+  "title": "Time 3",
+  "vocabulary": [
+    {
+      "chinese": "秒",
+      "pinyin": "miǎo",
+      "english": "GT: second"
+    },
+    {
+      "chinese": "刻",
+      "pinyin": "kè",
+      "english": "GT: engraved"
+    },
+    {
+      "chinese": "差",
+      "pinyin": "chā; chà; chāi",
+      "english": "GT: difference"
+    },
+    {
+      "chinese": "小时",
+      "pinyin": "xiǎo shí",
+      "english": "GT: hour"
+    },
+    {
+      "chinese": "分钟",
+      "pinyin": "fēn zhōng",
+      "english": "GT: minute"
+    },
+    {
+      "chinese": "小",
+      "pinyin": "xiǎo",
+      "english": "GT: small"
+    },
+    {
+      "chinese": "时",
+      "pinyin": "Shí; shí",
+      "english": "GT: Time"
+    },
+    {
+      "chinese": "钟",
+      "pinyin": "Zhōng; zhōng; zhōng",
+      "english": "GT: bell"
+    },
+    {
+      "chinese": "整",
+      "pinyin": "zhěng",
+      "english": "GT: whole"
+    }
+  ],
+  "lessonNumber": null
+}

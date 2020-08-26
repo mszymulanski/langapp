@@ -1,0 +1,71 @@
+{
+  "title": "People 1",
+  "vocabulary": [
+    {
+      "chinese": "漂亮",
+      "pinyin": "piào liang",
+      "english": "pretty"
+    },
+    {
+      "chinese": "漂",
+      "pinyin": "piāo; piǎo; piào",
+      "english": "to float"
+    },
+    {
+      "chinese": "亮",
+      "pinyin": "liàng",
+      "english": "bright"
+    },
+    {
+      "chinese": "朋友",
+      "pinyin": "péng you",
+      "english": "friend"
+    },
+    {
+      "chinese": "男",
+      "pinyin": "nán",
+      "english": "male"
+    },
+    {
+      "chinese": "矮",
+      "pinyin": "ǎi",
+      "english": "short (in height"
+    },
+    {
+      "chinese": "朋",
+      "pinyin": "péng",
+      "english": "friend"
+    },
+    {
+      "chinese": "友",
+      "pinyin": "yǒu",
+      "english": "friend"
+    },
+    {
+      "chinese": "可爱",
+      "pinyin": "kě ài",
+      "english": "cute"
+    },
+    {
+      "chinese": "非常",
+      "pinyin": "fēi cháng",
+      "english": "very"
+    },
+    {
+      "chinese": "可",
+      "pinyin": "kě; kè",
+      "english": "can"
+    },
+    {
+      "chinese": "非",
+      "pinyin": "Fēi; fēi",
+      "english": "to not be"
+    },
+    {
+      "chinese": "常",
+      "pinyin": "Cháng; cháng",
+      "english": "always"
+    }
+  ],
+  "lessonNumber": 20
+}

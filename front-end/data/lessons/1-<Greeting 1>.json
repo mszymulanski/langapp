@@ -1,0 +1,10 @@
+{
+  "title":"Greeting 1",
+  "lessonNumber":1,
+  "vocabulary":[
+    {"chinese": "你", "pinyin":"nǐ", "english":"you"},
+    {"chinese": "好", "pinyin":"hǎo", "english":"good"},
+    {"chinese": "见", "pinyin":"jiàn", "english":"to see"},
+    {"chinese": "再见", "pinyin":"zài jiàn", "english":"goodbye"}
+  ]
+}

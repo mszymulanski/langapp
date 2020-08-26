@@ -1,0 +1,141 @@
+{
+  "title": "Health 2",
+  "vocabulary": [
+    {
+      "chinese": "该",
+      "pinyin": "gāi",
+      "english": "GT: That"
+    },
+    {
+      "chinese": "病",
+      "pinyin": "bìng",
+      "english": "GT: disease"
+    },
+    {
+      "chinese": "舒",
+      "pinyin": "Shū; shū",
+      "english": "GT: Shu"
+    },
+    {
+      "chinese": "应",
+      "pinyin": "Yìng; yīng; yìng",
+      "english": "GT: should"
+    },
+    {
+      "chinese": "生病",
+      "pinyin": "shēng bìng",
+      "english": "GT: sick"
+    },
+    {
+      "chinese": "应该",
+      "pinyin": "yīng gāi",
+      "english": "GT: should"
+    },
+    {
+      "chinese": "舒服",
+      "pinyin": "shū fu",
+      "english": "GT: Comfortably"
+    },
+    {
+      "chinese": "疼",
+      "pinyin": "téng",
+      "english": "GT: pain"
+    },
+    {
+      "chinese": "头",
+      "pinyin": "tóu; tou",
+      "english": "GT: head"
+    },
+    {
+      "chinese": "休息",
+      "pinyin": "xiū xi",
+      "english": "GT: rest"
+    },
+    {
+      "chinese": "休",
+      "pinyin": "Xiū; xiū",
+      "english": "GT: Rest"
+    },
+    {
+      "chinese": "息",
+      "pinyin": "xī",
+      "english": "GT: interest"
+    },
+    {
+      "chinese": "肚子",
+      "pinyin": "dù zi",
+      "english": "GT: belly"
+    },
+    {
+      "chinese": "肚",
+      "pinyin": "dǔ; dù",
+      "english": "GT: tripe"
+    },
+    {
+      "chinese": "药",
+      "pinyin": "yào; yào",
+      "english": "GT: medicine"
+    },
+    {
+      "chinese": "一定",
+      "pinyin": "yī dìng",
+      "english": "GT: for sure"
+    },
+    {
+      "chinese": "感冒",
+      "pinyin": "gǎn mào",
+      "english": "GT: cold"
+    },
+    {
+      "chinese": "感",
+      "pinyin": "gǎn",
+      "english": "GT: sense"
+    },
+    {
+      "chinese": "定",
+      "pinyin": "dìng",
+      "english": "GT: set"
+    },
+    {
+      "chinese": "冒",
+      "pinyin": "Mào; mào",
+      "english": "GT: Risk"
+    },
+    {
+      "chinese": "留",
+      "pinyin": "liú",
+      "english": "GT: stay"
+    },
+    {
+      "chinese": "请假",
+      "pinyin": "qǐng jià",
+      "english": "GT: Ask for leave"
+    },
+    {
+      "chinese": "发烧",
+      "pinyin": "fā shāo",
+      "english": "GT: fever"
+    },
+    {
+      "chinese": "别",
+      "pinyin": "Bié; bié; biè",
+      "english": "GT: do not"
+    },
+    {
+      "chinese": "发",
+      "pinyin": "fā; fà",
+      "english": "GT: hair"
+    },
+    {
+      "chinese": "假",
+      "pinyin": "jiǎ; jià",
+      "english": "GT: false"
+    },
+    {
+      "chinese": "烧",
+      "pinyin": "shāo",
+      "english": "GT: burn"
+    }
+  ],
+  "lessonNumber": null
+}

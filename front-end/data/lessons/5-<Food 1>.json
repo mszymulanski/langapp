@@ -1,0 +1,14 @@
+{
+  "title":"Food 1",
+  "lessonNumber":5,
+  "vocabulary":[
+    {"chinese": "吃", "pinyin":"chī", "english":"to eat"},
+    {"chinese": "不", "pinyin":"bù", "english":"no; not"},
+    {"chinese": "饭", "pinyin":"fàn", "english":"food"},
+    {"chinese": "鱼", "pinyin":"yú", "english":"fish"},
+    {"chinese": "面", "pinyin":"miàn", "english":"noodles"},
+    {"chinese": "喝", "pinyin":"hē", "english":"to drink"},
+    {"chinese": "水", "pinyin":"shuǐ", "english":"water"},
+    {"chinese": "茶", "pinyin":"chá", "english":"tea"}
+  ]
+}

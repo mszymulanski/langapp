@@ -1,0 +1,101 @@
+{
+  "title": "Family 3",
+  "vocabulary": [
+    {
+      "chinese": "爷爷",
+      "pinyin": "yé ye",
+      "english": "GT: grandfather"
+    },
+    {
+      "chinese": "奶奶",
+      "pinyin": "nǎi nai",
+      "english": "GT: grandmother"
+    },
+    {
+      "chinese": "阿姨",
+      "pinyin": "ā yí",
+      "english": "GT: Auntie"
+    },
+    {
+      "chinese": "爷",
+      "pinyin": "yé",
+      "english": "GT: Father"
+    },
+    {
+      "chinese": "阿",
+      "pinyin": "Ā; ā; ē",
+      "english": "GT: A"
+    },
+    {
+      "chinese": "姨",
+      "pinyin": "yí",
+      "english": "GT: aunt"
+    },
+    {
+      "chinese": "兄弟姐妹",
+      "pinyin": "xiōng dì jiě mèi",
+      "english": "GT: brothers and sisters"
+    },
+    {
+      "chinese": "关系",
+      "pinyin": "guān xi",
+      "english": "GT: relationship"
+    },
+    {
+      "chinese": "叔叔",
+      "pinyin": "shū shu",
+      "english": "GT: uncle"
+    },
+    {
+      "chinese": "父母",
+      "pinyin": "fù mǔ",
+      "english": "GT: parents"
+    },
+    {
+      "chinese": "兄",
+      "pinyin": "xiōng",
+      "english": "GT: Brother"
+    },
+    {
+      "chinese": "叔",
+      "pinyin": "shū",
+      "english": "GT: uncle"
+    },
+    {
+      "chinese": "父",
+      "pinyin": "fù",
+      "english": "GT: father"
+    },
+    {
+      "chinese": "母",
+      "pinyin": "mǔ",
+      "english": "GT: mother"
+    },
+    {
+      "chinese": "像",
+      "pinyin": "xiàng",
+      "english": "GT: image"
+    },
+    {
+      "chinese": "一样",
+      "pinyin": "yī yàng",
+      "english": "GT: same"
+    },
+    {
+      "chinese": "亲戚",
+      "pinyin": "qīn qi",
+      "english": "GT: relative"
+    },
+    {
+      "chinese": "戚",
+      "pinyin": "Qī; qī",
+      "english": "GT: Qi"
+    },
+    {
+      "chinese": "亲",
+      "pinyin": "qīn; qìng",
+      "english": "GT: Dear"
+    }
+  ],
+  "lessonNumber": null
+}

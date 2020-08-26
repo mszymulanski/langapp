@@ -1,0 +1,19 @@
+{
+  "title":"Numbers",
+  "lessonNumber":2,
+  "vocabulary":[
+    {"chinese": "零", "pinyin":"líng", "english":"0"},
+    {"chinese": "一", "pinyin":"yī", "english":"1"},
+    {"chinese": "二", "pinyin":"èr", "english":"2"},
+    {"chinese": "三", "pinyin":"sān", "english":"3"},
+    {"chinese": "四", "pinyin":"sì", "english":"4"},
+    {"chinese": "五", "pinyin":"wǔ", "english":"5"},
+    {"chinese": "六", "pinyin":"liù", "english":"6"},
+    {"chinese": "七", "pinyin":"qī", "english":"7"},
+    {"chinese": "八", "pinyin":"bā", "english":"8"},
+    {"chinese": "九", "pinyin":"jiǔ", "english":"9"},
+    {"chinese": "十", "pinyin":"shí", "english":"10"},
+    {"chinese": "百", "pinyin":"bǎi", "english":"one hundred"},
+    {"chinese": "元", "pinyin":"yuán", "english":"Chinese currency unit"}
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Business 1",
+  "vocabulary": [
+    {
+      "chinese": "销",
+      "pinyin": "xiāo",
+      "english": "GT: pin"
+    },
+    {
+      "chinese": "收据",
+      "pinyin": "shōu jù",
+      "english": "GT: receipt"
+    },
+    {
+      "chinese": "报销",
+      "pinyin": "bào xiāo",
+      "english": "GT: Submit an expense account"
+    },
+    {
+      "chinese": "费用",
+      "pinyin": "fèi yòng",
+      "english": "GT: cost"
+    },
+    {
+      "chinese": "尽快",
+      "pinyin": "jǐn kuài; jìn kuài",
+      "english": "GT: ASAP"
+    },
+    {
+      "chinese": "回复",
+      "pinyin": "huí fù",
+      "english": "GT: Reply"
+    },
+    {
+      "chinese": "报告",
+      "pinyin": "bào gào",
+      "english": "GT: report"
+    },
+    {
+      "chinese": "协议",
+      "pinyin": "xié yì",
+      "english": "GT: protocol"
+    },
+    {
+      "chinese": "尽",
+      "pinyin": "jǐn; jìn",
+      "english": "GT: Exhausted"
+    },
+    {
+      "chinese": "协",
+      "pinyin": "xié",
+      "english": "GT: Assist"
+    },
+    {
+      "chinese": "合同",
+      "pinyin": "hé tong",
+      "english": "GT: contract"
+    },
+    {
+      "chinese": "项目",
+      "pinyin": "xiàng mù",
+      "english": "GT: project"
+    },
+    {
+      "chinese": "签名",
+      "pinyin": "qiān míng",
+      "english": "GT: signature"
+    },
+    {
+      "chinese": "汇报",
+      "pinyin": "huì bào; huì bào",
+      "english": "GT: report"
+    },
+    {
+      "chinese": "合",
+      "pinyin": "gě; hé",
+      "english": "GT: Close"
+    },
+    {
+      "chinese": "项",
+      "pinyin": "Xiàng; xiàng",
+      "english": "GT: item"
+    },
+    {
+      "chinese": "汇",
+      "pinyin": "huì; huì",
+      "english": "GT: exchange"
+    },
+    {
+      "chinese": "广告",
+      "pinyin": "guǎng gào",
+      "english": "GT: ad"
+    },
+    {
+      "chinese": "预算",
+      "pinyin": "yù suàn",
+      "english": "GT: budget"
+    },
+    {
+      "chinese": "资本",
+      "pinyin": "zī běn",
+      "english": "GT: capital"
+    },
+    {
+      "chinese": "低",
+      "pinyin": "dī",
+      "english": "GT: low"
+    },
+    {
+      "chinese": "广",
+      "pinyin": "Guǎng; guǎng",
+      "english": "GT: wide"
+    },
+    {
+      "chinese": "资",
+      "pinyin": "zī",
+      "english": "GT: Capital"
+    }
+  ],
+  "lessonNumber": null
+}

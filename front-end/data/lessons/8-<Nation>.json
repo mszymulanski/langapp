@@ -1,0 +1,22 @@
+{
+  "title":"Nation",
+  "lessonNumber":8,
+  "vocabulary":[
+    {"chinese": "国", "pinyin":"guó", "english":"country"},
+    {"chinese": "中", "pinyin":"zhōng", "english":"middle"},
+    {"chinese": "美", "pinyin":"měi", "english":"America"},
+    {"chinese": "英", "pinyin":"yīng", "english":"British"},
+    {"chinese": "中国", "pinyin":"zhōng guó", "english":"China"},
+    {"chinese": "英国", "pinyin":"yīng guó", "english":"England"},
+    {"chinese": "美国", "pinyin":"měi guó", "english":"USA"},
+    {"chinese": "加拿大", "pinyin":"jiā ná dà", "english":"Canada"},
+    {"chinese": "哪", "pinyin":"nǎ", "english":"how"},
+    {"chinese": "都", "pinyin":"dōu", "english":"all"},
+    {"chinese": "对", "pinyin":"duì", "english":"correct"},
+    {"chinese": "人", "pinyin":"rén", "english":"person"},
+    {"chinese": "中国人", "pinyin":"zhōng guó rén", "english":"Chinese person"},
+    {"chinese": "英国人", "pinyin":"yīng guó rén", "english":"British person"},
+    {"chinese": "美国人", "pinyin":"měi guó rén", "english":"American person"},
+    {"chinese": "加拿大人", "pinyin":"jiā ná dà rén", "english":"Canadian person"}
+  ]
+}

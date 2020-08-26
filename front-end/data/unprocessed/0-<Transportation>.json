@@ -1,0 +1,101 @@
+{
+  "title": "Transportation",
+  "vocabulary": [
+    {
+      "chinese": "铁",
+      "pinyin": "Tiě; tiě",
+      "english": "iron (metal)"
+    },
+    {
+      "chinese": "店",
+      "pinyin": "diàn",
+      "english": "inn"
+    },
+    {
+      "chinese": "地",
+      "pinyin": "de; dì",
+      "english": "ground"
+    },
+    {
+      "chinese": "酒",
+      "pinyin": "jiǔ",
+      "english": "alcohol"
+    },
+    {
+      "chinese": "酒店",
+      "pinyin": "jiǔ diàn",
+      "english": "hotel"
+    },
+    {
+      "chinese": "地铁",
+      "pinyin": "dì tiě",
+      "english": "subway"
+    },
+    {
+      "chinese": "不准",
+      "pinyin": "bù zhǔn",
+      "english": "to not allow"
+    },
+    {
+      "chinese": "准",
+      "pinyin": "zhǔn; zhǔn",
+      "english": "to allow"
+    },
+    {
+      "chinese": "出租车",
+      "pinyin": "chū zū chē",
+      "english": "taxi"
+    },
+    {
+      "chinese": "站",
+      "pinyin": "zhàn",
+      "english": "A station, stand, or stop"
+    },
+    {
+      "chinese": "车",
+      "pinyin": "Chē; chē; jū",
+      "english": "car"
+    },
+    {
+      "chinese": "出",
+      "pinyin": "chū",
+      "english": "to go out"
+    },
+    {
+      "chinese": "租",
+      "pinyin": "zū",
+      "english": "to hire"
+    },
+    {
+      "chinese": "可以",
+      "pinyin": "kě yǐ",
+      "english": "can"
+    },
+    {
+      "chinese": "汽车",
+      "pinyin": "qì chē",
+      "english": "car"
+    },
+    {
+      "chinese": "公共",
+      "pinyin": "gōng gòng",
+      "english": "public"
+    },
+    {
+      "chinese": "船",
+      "pinyin": "chuán",
+      "english": "boat"
+    },
+    {
+      "chinese": "公",
+      "pinyin": "gōng",
+      "english": "public"
+    },
+    {
+      "chinese": "汽",
+      "pinyin": "qì",
+      "english": "steam"
+    }
+  ],
+  "lessonNumber": null
+}

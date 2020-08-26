@@ -1,0 +1,31 @@
+{
+  "title": "Languages",
+  "vocabulary": [
+    {
+      "chinese": "读",
+      "pinyin": "dòu; dú",
+      "english": "GT: read"
+    },
+    {
+      "chinese": "意思",
+      "pinyin": "yì si",
+      "english": "GT: meaning"
+    },
+    {
+      "chinese": "写",
+      "pinyin": "xiě",
+      "english": "GT: write"
+    },
+    {
+      "chinese": "难",
+      "pinyin": "nán; nàn",
+      "english": "GT: difficult"
+    },
+    {
+      "chinese": "思",
+      "pinyin": "sī",
+      "english": "GT: think"
+    }
+  ],
+  "lessonNumber": null
+}

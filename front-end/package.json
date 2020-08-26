@@ -1,0 +1,21 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Michal S. Szymulanski",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "gray-matter": "^4.0.2",
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

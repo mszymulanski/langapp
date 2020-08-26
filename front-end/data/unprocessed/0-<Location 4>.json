@@ -1,0 +1,56 @@
+{
+  "title": "Location 4",
+  "vocabulary": [
+    {
+      "chinese": "桌",
+      "pinyin": "zhuō",
+      "english": "table"
+    },
+    {
+      "chinese": "找",
+      "pinyin": "zhǎo",
+      "english": "to try to find"
+    },
+    {
+      "chinese": "桌子",
+      "pinyin": "zhuō zi",
+      "english": "table"
+    },
+    {
+      "chinese": "椅子",
+      "pinyin": "yǐ zi",
+      "english": "chair"
+    },
+    {
+      "chinese": "椅",
+      "pinyin": "yǐ",
+      "english": "chair"
+    },
+    {
+      "chinese": "房间",
+      "pinyin": "fáng jiān",
+      "english": "room"
+    },
+    {
+      "chinese": "冰箱",
+      "pinyin": "bīng xiāng",
+      "english": "refrigerator"
+    },
+    {
+      "chinese": "外",
+      "pinyin": "wài",
+      "english": "outside"
+    },
+    {
+      "chinese": "房",
+      "pinyin": "Fáng; fáng",
+      "english": "house"
+    },
+    {
+      "chinese": "箱",
+      "pinyin": "xiāng",
+      "english": "box"
+    }
+  ],
+  "lessonNumber": null
+}

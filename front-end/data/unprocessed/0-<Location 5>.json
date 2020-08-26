@@ -1,0 +1,76 @@
+{
+  "title": "Location 5",
+  "vocabulary": [
+    {
+      "chinese": "城",
+      "pinyin": "chéng",
+      "english": "GT: city"
+    },
+    {
+      "chinese": "附",
+      "pinyin": "fù",
+      "english": "GT: Attached"
+    },
+    {
+      "chinese": "园",
+      "pinyin": "Yuán; yuán",
+      "english": "GT: garden"
+    },
+    {
+      "chinese": "城市",
+      "pinyin": "chéng shì",
+      "english": "GT: city"
+    },
+    {
+      "chinese": "附近",
+      "pinyin": "fù jìn",
+      "english": "GT: nearby"
+    },
+    {
+      "chinese": "公园",
+      "pinyin": "gōng yuán",
+      "english": "GT: park"
+    },
+    {
+      "chinese": "图",
+      "pinyin": "tú",
+      "english": "GT: Map"
+    },
+    {
+      "chinese": "方",
+      "pinyin": "Fāng; fāng",
+      "english": "GT: How to"
+    },
+    {
+      "chinese": "中间",
+      "pinyin": "zhōng jiān",
+      "english": "GT: intermediate"
+    },
+    {
+      "chinese": "图书馆",
+      "pinyin": "tú shū guǎn",
+      "english": "GT: library"
+    },
+    {
+      "chinese": "地方",
+      "pinyin": "dì fāng; dì fang",
+      "english": "GT: local"
+    },
+    {
+      "chinese": "上面",
+      "pinyin": "shàng miàn",
+      "english": "GT: On"
+    },
+    {
+      "chinese": "下面",
+      "pinyin": "xià miàn; xià miàn",
+      "english": "GT: below"
+    },
+    {
+      "chinese": "咖啡馆",
+      "pinyin": "kā fēi guǎn",
+      "english": "GT: coffee shop"
+    }
+  ],
+  "lessonNumber": null
+}

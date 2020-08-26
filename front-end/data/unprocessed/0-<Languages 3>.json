@@ -1,0 +1,101 @@
+{
+  "title": "Languages 3",
+  "vocabulary": [
+    {
+      "chinese": "答",
+      "pinyin": "dā; dá",
+      "english": "GT: answer"
+    },
+    {
+      "chinese": "句",
+      "pinyin": "jù",
+      "english": "GT: sentence"
+    },
+    {
+      "chinese": "简",
+      "pinyin": "jiǎn",
+      "english": "GT: simple"
+    },
+    {
+      "chinese": "简单",
+      "pinyin": "jiǎn dān",
+      "english": "GT: simple"
+    },
+    {
+      "chinese": "句子",
+      "pinyin": "jù zi",
+      "english": "GT: sentence"
+    },
+    {
+      "chinese": "回答",
+      "pinyin": "huí dá",
+      "english": "GT: Reply"
+    },
+    {
+      "chinese": "词典",
+      "pinyin": "cí diǎn",
+      "english": "GT: dictionary"
+    },
+    {
+      "chinese": "应用",
+      "pinyin": "yìng yòng",
+      "english": "GT: application"
+    },
+    {
+      "chinese": "语法",
+      "pinyin": "yǔ fǎ",
+      "english": "GT: grammar"
+    },
+    {
+      "chinese": "流利",
+      "pinyin": "liú lì",
+      "english": "GT: fluent"
+    },
+    {
+      "chinese": "词",
+      "pinyin": "cí",
+      "english": "GT: word"
+    },
+    {
+      "chinese": "流",
+      "pinyin": "liú",
+      "english": "GT: flow"
+    },
+    {
+      "chinese": "典",
+      "pinyin": "diǎn",
+      "english": "GT: Code"
+    },
+    {
+      "chinese": "下载",
+      "pinyin": "xià zǎi",
+      "english": "GT: download"
+    },
+    {
+      "chinese": "多邻国",
+      "pinyin": "duō lín guó",
+      "english": "GT: Duolingo"
+    },
+    {
+      "chinese": "翻译",
+      "pinyin": "fān yì",
+      "english": "GT: translation"
+    },
+    {
+      "chinese": "翻",
+      "pinyin": "fān",
+      "english": "GT: turn"
+    },
+    {
+      "chinese": "载",
+      "pinyin": "zǎi; zài",
+      "english": "GT: Load"
+    },
+    {
+      "chinese": "译",
+      "pinyin": "yì",
+      "english": "GT: Translate"
+    }
+  ],
+  "lessonNumber": null
+}

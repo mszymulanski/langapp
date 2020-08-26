@@ -1,0 +1,111 @@
+{
+  "title": "Festivals",
+  "vocabulary": [
+    {
+      "chinese": "饼",
+      "pinyin": "bǐng",
+      "english": "GT: cake"
+    },
+    {
+      "chinese": "月亮",
+      "pinyin": "yuè liang",
+      "english": "GT: moon"
+    },
+    {
+      "chinese": "月饼",
+      "pinyin": "yuè bǐng",
+      "english": "GT: moon cake"
+    },
+    {
+      "chinese": "中秋节",
+      "pinyin": "Zhōng qiū jié",
+      "english": "GT: Mid-Autumn Festival"
+    },
+    {
+      "chinese": "圆",
+      "pinyin": "yuán",
+      "english": "GT: circle"
+    },
+    {
+      "chinese": "恭喜",
+      "pinyin": "gōng xǐ",
+      "english": "GT: Congratulation"
+    },
+    {
+      "chinese": "红包",
+      "pinyin": "hóng bāo",
+      "english": "GT: Red envelope"
+    },
+    {
+      "chinese": "汤圆",
+      "pinyin": "tāng yuán",
+      "english": "GT: Dumpling"
+    },
+    {
+      "chinese": "聚会",
+      "pinyin": "jù huì",
+      "english": "GT: get together"
+    },
+    {
+      "chinese": "发财",
+      "pinyin": "fā cái",
+      "english": "GT: Make a fortune"
+    },
+    {
+      "chinese": "恭",
+      "pinyin": "gōng",
+      "english": "GT: Respectful"
+    },
+    {
+      "chinese": "聚",
+      "pinyin": "jù",
+      "english": "GT: Gather"
+    },
+    {
+      "chinese": "财",
+      "pinyin": "cái",
+      "english": "GT: fiscal"
+    },
+    {
+      "chinese": "端午节",
+      "pinyin": "Duān wǔ jié",
+      "english": "GT: Dragon boat festival"
+    },
+    {
+      "chinese": "粽子",
+      "pinyin": "zòng zi",
+      "english": "GT: Zongzi"
+    },
+    {
+      "chinese": "划",
+      "pinyin": "huá; huá; huà",
+      "english": "GT: Draw"
+    },
+    {
+      "chinese": "龙舟",
+      "pinyin": "lóng zhōu",
+      "english": "GT: Dragon Boat"
+    },
+    {
+      "chinese": "端",
+      "pinyin": "duān",
+      "english": "GT: end"
+    },
+    {
+      "chinese": "粽",
+      "pinyin": "zòng",
+      "english": "GT: Dumplings"
+    },
+    {
+      "chinese": "龙",
+      "pinyin": "Lóng; lóng",
+      "english": "GT: Dragon"
+    },
+    {
+      "chinese": "舟",
+      "pinyin": "zhōu",
+      "english": "GT: boat"
+    }
+  ],
+  "lessonNumber": null
+}

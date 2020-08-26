@@ -1,0 +1,86 @@
+{
+  "title": "Emergency",
+  "vocabulary": [
+    {
+      "chinese": "伤",
+      "pinyin": "shāng",
+      "english": "GT: hurt"
+    },
+    {
+      "chinese": "受",
+      "pinyin": "shòu",
+      "english": "GT: Suffer"
+    },
+    {
+      "chinese": "救",
+      "pinyin": "jiù",
+      "english": "GT: save"
+    },
+    {
+      "chinese": "警",
+      "pinyin": "jǐng",
+      "english": "GT: police"
+    },
+    {
+      "chinese": "报警",
+      "pinyin": "bào jǐng",
+      "english": "GT: Call the police"
+    },
+    {
+      "chinese": "救护车",
+      "pinyin": "jiù hù chē",
+      "english": "GT: ambulance"
+    },
+    {
+      "chinese": "受伤",
+      "pinyin": "shòu shāng",
+      "english": "GT: Injured"
+    },
+    {
+      "chinese": "救命",
+      "pinyin": "jiù mìng",
+      "english": "GT: Help"
+    },
+    {
+      "chinese": "发生",
+      "pinyin": "fā shēng",
+      "english": "GT: occur"
+    },
+    {
+      "chinese": "意外",
+      "pinyin": "yì wài",
+      "english": "GT: accident"
+    },
+    {
+      "chinese": "严重",
+      "pinyin": "yán zhòng",
+      "english": "GT: serious"
+    },
+    {
+      "chinese": "严",
+      "pinyin": "Yán; yán",
+      "english": "GT: strict"
+    },
+    {
+      "chinese": "命",
+      "pinyin": "mìng",
+      "english": "GT: Life"
+    },
+    {
+      "chinese": "偷",
+      "pinyin": "tōu",
+      "english": "GT: steal"
+    },
+    {
+      "chinese": "警察",
+      "pinyin": "jǐng chá",
+      "english": "GT: Policemen"
+    },
+    {
+      "chinese": "察",
+      "pinyin": "Chá; chá",
+      "english": "GT: Observe"
+    }
+  ],
+  "lessonNumber": null
+}

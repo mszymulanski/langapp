@@ -1,0 +1,86 @@
+{
+  "title": "Health 3",
+  "vocabulary": [
+    {
+      "chinese": "顾",
+      "pinyin": "Gù; gù",
+      "english": "GT: Attend"
+    },
+    {
+      "chinese": "死",
+      "pinyin": "sǐ",
+      "english": "GT: dead"
+    },
+    {
+      "chinese": "闷",
+      "pinyin": "mēn; mèn",
+      "english": "GT: stuffy"
+    },
+    {
+      "chinese": "腿",
+      "pinyin": "tuǐ; tuǐ",
+      "english": "GT: leg"
+    },
+    {
+      "chinese": "照顾",
+      "pinyin": "zhào gu",
+      "english": "GT: Look after"
+    },
+    {
+      "chinese": "公斤",
+      "pinyin": "gōng jīn",
+      "english": "GT: kg"
+    },
+    {
+      "chinese": "着急",
+      "pinyin": "zháo jí",
+      "english": "GT: Worry"
+    },
+    {
+      "chinese": "瘦",
+      "pinyin": "shòu",
+      "english": "GT: thin"
+    },
+    {
+      "chinese": "斤",
+      "pinyin": "jīn",
+      "english": "GT: jin"
+    },
+    {
+      "chinese": "急",
+      "pinyin": "jí",
+      "english": "GT: anxious"
+    },
+    {
+      "chinese": "咳嗽",
+      "pinyin": "ké sou",
+      "english": "GT: cough"
+    },
+    {
+      "chinese": "抽烟",
+      "pinyin": "chōu yān",
+      "english": "GT: smokes"
+    },
+    {
+      "chinese": "咳",
+      "pinyin": "hāi; ké",
+      "english": "GT: cough"
+    },
+    {
+      "chinese": "嗽",
+      "pinyin": "sòu",
+      "english": "GT: cough"
+    },
+    {
+      "chinese": "抽",
+      "pinyin": "chōu",
+      "english": "GT: Draw"
+    },
+    {
+      "chinese": "烟",
+      "pinyin": "yān",
+      "english": "GT: smoke"
+    }
+  ],
+  "lessonNumber": null
+}

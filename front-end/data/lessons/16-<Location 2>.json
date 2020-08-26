@@ -1,0 +1,56 @@
+{
+  "title": "Location 2",
+  "vocabulary": [
+    {
+      "chinese": "洗手间",
+      "pinyin": "xǐ shǒu jiān",
+      "english": "bathroom"
+    },
+    {
+      "chinese": "医院",
+      "pinyin": "yī yuàn",
+      "english": "hospital"
+    },
+    {
+      "chinese": "洗",
+      "pinyin": "xǐ",
+      "english": "to wash"
+    },
+    {
+      "chinese": "手",
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    {
+      "chinese": "间",
+      "pinyin": "jiān; jiàn",
+      "english": "room"
+    },
+    {
+      "chinese": "院",
+      "pinyin": "yuàn",
+      "english": "courtyard"
+    },
+    {
+      "chinese": "这儿",
+      "pinyin": "zhèr",
+      "english": "here"
+    },
+    {
+      "chinese": "那儿",
+      "pinyin": "nàr",
+      "english": "there"
+    },
+    {
+      "chinese": "饭馆",
+      "pinyin": "fàn guǎn",
+      "english": "restaurant"
+    },
+    {
+      "chinese": "馆",
+      "pinyin": "guǎn",
+      "english": "building"
+    }
+  ],
+  "lessonNumber": null
+}

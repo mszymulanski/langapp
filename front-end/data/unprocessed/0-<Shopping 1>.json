@@ -1,0 +1,76 @@
+{
+  "title": "Shopping 1",
+  "vocabulary": [
+    {
+      "chinese": "件",
+      "pinyin": "jiàn",
+      "english": "matter"
+    },
+    {
+      "chinese": "衣",
+      "pinyin": "yī; yì",
+      "english": "clothes"
+    },
+    {
+      "chinese": "商",
+      "pinyin": "Shāng; shāng",
+      "english": "business"
+    },
+    {
+      "chinese": "商店",
+      "pinyin": "shāng diàn",
+      "english": "store"
+    },
+    {
+      "chinese": "衣服",
+      "pinyin": "yī fu",
+      "english": "clothes"
+    },
+    {
+      "chinese": "门",
+      "pinyin": "Mén; mén",
+      "english": "door"
+    },
+    {
+      "chinese": "欢迎",
+      "pinyin": "huān yíng",
+      "english": "to welcome"
+    },
+    {
+      "chinese": "迎",
+      "pinyin": "yíng",
+      "english": "to welcome"
+    },
+    {
+      "chinese": "您",
+      "pinyin": "nín",
+      "english": "you (courteous, as opposed to informal 你)"
+    },
+    {
+      "chinese": "帮忙",
+      "pinyin": "bāng máng",
+      "english": "to help"
+    },
+    {
+      "chinese": "需要",
+      "pinyin": "xū yào",
+      "english": "to need"
+    },
+    {
+      "chinese": "需",
+      "pinyin": "xū",
+      "english": "to require"
+    },
+    {
+      "chinese": "随便",
+      "pinyin": "suí biàn",
+      "english": "casual"
+    },
+    {
+      "chinese": "随",
+      "pinyin": "Suí; suí",
+      "english": "to follow"
+    }
+  ],
+  "lessonNumber": null
+}

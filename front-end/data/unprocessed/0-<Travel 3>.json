@@ -1,0 +1,126 @@
+{
+  "title": "Travel 3",
+  "vocabulary": [
+    {
+      "chinese": "际",
+      "pinyin": "jì",
+      "english": "GT: The occasion"
+    },
+    {
+      "chinese": "柜",
+      "pinyin": "jǔ; guì",
+      "english": "GT: cabinet"
+    },
+    {
+      "chinese": "转",
+      "pinyin": "zhuǎi; zhuǎn; zhuàn",
+      "english": "GT: turn"
+    },
+    {
+      "chinese": "转机",
+      "pinyin": "zhuǎn jī",
+      "english": "GT: Connection"
+    },
+    {
+      "chinese": "柜台",
+      "pinyin": "guì tái",
+      "english": "GT: counter"
+    },
+    {
+      "chinese": "国际",
+      "pinyin": "guó jì",
+      "english": "GT: International"
+    },
+    {
+      "chinese": "换钱",
+      "pinyin": "huàn qián",
+      "english": "GT: Change money"
+    },
+    {
+      "chinese": "银行",
+      "pinyin": "yín háng",
+      "english": "GT: bank"
+    },
+    {
+      "chinese": "充电",
+      "pinyin": "chōng diàn",
+      "english": "GT: Charging"
+    },
+    {
+      "chinese": "国内",
+      "pinyin": "guó nèi",
+      "english": "GT: domestic"
+    },
+    {
+      "chinese": "银",
+      "pinyin": "yín",
+      "english": "GT: silver"
+    },
+    {
+      "chinese": "充",
+      "pinyin": "chōng",
+      "english": "GT: Charge"
+    },
+    {
+      "chinese": "内",
+      "pinyin": "nèi",
+      "english": "GT: Inside"
+    },
+    {
+      "chinese": "充值",
+      "pinyin": "chōng zhí",
+      "english": "GT: Recharge"
+    },
+    {
+      "chinese": "漫游",
+      "pinyin": "màn yóu",
+      "english": "GT: roaming"
+    },
+    {
+      "chinese": "电话卡",
+      "pinyin": "diàn huà kǎ",
+      "english": "GT: phone card"
+    },
+    {
+      "chinese": "值",
+      "pinyin": "zhí",
+      "english": "GT: value"
+    },
+    {
+      "chinese": "订房",
+      "pinyin": "dìng fáng",
+      "english": "GT: Booking"
+    },
+    {
+      "chinese": "退房",
+      "pinyin": "tuì fáng",
+      "english": "GT: check out"
+    },
+    {
+      "chinese": "取消",
+      "pinyin": "qǔ xiāo",
+      "english": "GT: cancel"
+    },
+    {
+      "chinese": "导游",
+      "pinyin": "dǎo yóu",
+      "english": "GT: Tourist guide"
+    },
+    {
+      "chinese": "取",
+      "pinyin": "qǔ",
+      "english": "GT: take"
+    },
+    {
+      "chinese": "导",
+      "pinyin": "dǎo",
+      "english": "GT: guide"
+    },
+    {
+      "chinese": "消",
+      "pinyin": "xiāo",
+      "english": "GT: Eliminate"
+    }
+  ],
+  "lessonNumber": null
+}

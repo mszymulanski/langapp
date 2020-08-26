@@ -1,0 +1,51 @@
+{
+  "title": "Weather 2",
+  "vocabulary": [
+    {
+      "chinese": "干燥",
+      "pinyin": "gān zào",
+      "english": "GT: dry"
+    },
+    {
+      "chinese": "暖和",
+      "pinyin": "nuǎn huo",
+      "english": "GT: warm"
+    },
+    {
+      "chinese": "凉快",
+      "pinyin": "liáng kuai",
+      "english": "GT: Cool off"
+    },
+    {
+      "chinese": "燥",
+      "pinyin": "zào",
+      "english": "GT: dry"
+    },
+    {
+      "chinese": "暖",
+      "pinyin": "nuǎn",
+      "english": "GT: warm"
+    },
+    {
+      "chinese": "凉",
+      "pinyin": "Liáng; liáng; liàng",
+      "english": "GT: cool"
+    },
+    {
+      "chinese": "温度",
+      "pinyin": "wēn dù",
+      "english": "GT: temperature"
+    },
+    {
+      "chinese": "大约",
+      "pinyin": "dà yuē",
+      "english": "GT: about"
+    },
+    {
+      "chinese": "温",
+      "pinyin": "Wēn; wēn",
+      "english": "GT: temperature"
+    }
+  ],
+  "lessonNumber": null
+}

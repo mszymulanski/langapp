@@ -1,0 +1,81 @@
+{
+  "title": "Location 6",
+  "vocabulary": [
+    {
+      "chinese": "先",
+      "pinyin": "xiān",
+      "english": "GT: first"
+    },
+    {
+      "chinese": "然后",
+      "pinyin": "rán hòu",
+      "english": "GT: then"
+    },
+    {
+      "chinese": "西边",
+      "pinyin": "xī biān",
+      "english": "GT: The west"
+    },
+    {
+      "chinese": "东边",
+      "pinyin": "dōng bian",
+      "english": "GT: The east"
+    },
+    {
+      "chinese": "北边",
+      "pinyin": "běi biān",
+      "english": "GT: North"
+    },
+    {
+      "chinese": "一直",
+      "pinyin": "yī zhí",
+      "english": "GT: Up"
+    },
+    {
+      "chinese": "最后",
+      "pinyin": "zuì hòu",
+      "english": "GT: At last"
+    },
+    {
+      "chinese": "南边",
+      "pinyin": "nán bian",
+      "english": "GT: South"
+    },
+    {
+      "chinese": "直",
+      "pinyin": "Zhí; zhí",
+      "english": "GT: straight"
+    },
+    {
+      "chinese": "迷路",
+      "pinyin": "mí lù",
+      "english": "GT: get lost"
+    },
+    {
+      "chinese": "地址",
+      "pinyin": "dì zhǐ",
+      "english": "GT: address"
+    },
+    {
+      "chinese": "周围",
+      "pinyin": "zhōu wéi",
+      "english": "GT: around"
+    },
+    {
+      "chinese": "迷",
+      "pinyin": "mí",
+      "english": "GT: fan"
+    },
+    {
+      "chinese": "址",
+      "pinyin": "zhǐ",
+      "english": "GT: site"
+    },
+    {
+      "chinese": "围",
+      "pinyin": "Wéi; wéi",
+      "english": "GT: Enclose"
+    }
+  ],
+  "lessonNumber": null
+}

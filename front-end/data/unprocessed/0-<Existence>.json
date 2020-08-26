@@ -1,0 +1,56 @@
+{
+  "title": "Existence",
+  "vocabulary": [
+    {
+      "chinese": "室",
+      "pinyin": "Shì; shì",
+      "english": "GT: room"
+    },
+    {
+      "chinese": "办",
+      "pinyin": "bàn",
+      "english": "GT: do"
+    },
+    {
+      "chinese": "辆",
+      "pinyin": "liàng",
+      "english": "GT: Vehicles"
+    },
+    {
+      "chinese": "办公室",
+      "pinyin": "bàn gōng shì",
+      "english": "GT: office"
+    },
+    {
+      "chinese": "瓶子",
+      "pinyin": "píng zi",
+      "english": "GT: bottle"
+    },
+    {
+      "chinese": "照片",
+      "pinyin": "zhào piàn",
+      "english": "GT: photo"
+    },
+    {
+      "chinese": "瓶",
+      "pinyin": "píng",
+      "english": "GT: bottle"
+    },
+    {
+      "chinese": "片",
+      "pinyin": "piān; piàn",
+      "english": "GT: sheet"
+    },
+    {
+      "chinese": "鸟",
+      "pinyin": "niǎo",
+      "english": "GT: bird"
+    },
+    {
+      "chinese": "树",
+      "pinyin": "shù",
+      "english": "GT: tree"
+    }
+  ],
+  "lessonNumber": null
+}

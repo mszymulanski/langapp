@@ -1,0 +1,66 @@
+{
+  "title": "Greeting 4",
+  "vocabulary": [
+    {
+      "chinese": "早安",
+      "pinyin": "zǎo ān",
+      "english": "good morning"
+    },
+    {
+      "chinese": "晚安",
+      "pinyin": "wǎn ān",
+      "english": "good evening"
+    },
+    {
+      "chinese": "一会儿",
+      "pinyin": "yī huìr",
+      "english": "a moment"
+    },
+    {
+      "chinese": "会",
+      "pinyin": "huì; kuài",
+      "english": "can"
+    },
+    {
+      "chinese": "安",
+      "pinyin": "Ān; ān",
+      "english": "quiet"
+    },
+    {
+      "chinese": "最近",
+      "pinyin": "zuì jìn",
+      "english": "recently"
+    },
+    {
+      "chinese": "好久不见",
+      "pinyin": "hǎo jiǔ bu jiàn",
+      "english": "long time no see"
+    },
+    {
+      "chinese": "不错",
+      "pinyin": "bù cuò",
+      "english": "not bad"
+    },
+    {
+      "chinese": "最",
+      "pinyin": "zuì",
+      "english": "most"
+    },
+    {
+      "chinese": "近",
+      "pinyin": "jìn",
+      "english": "near"
+    },
+    {
+      "chinese": "久",
+      "pinyin": "jiǔ",
+      "english": "long time"
+    },
+    {
+      "chinese": "错",
+      "pinyin": "Cuò; cuò",
+      "english": "mistake"
+    }
+  ],
+  "lessonNumber": null
+}

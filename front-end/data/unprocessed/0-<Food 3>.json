@@ -1,0 +1,81 @@
+{
+  "title": "Food 3",
+  "vocabulary": [
+    {
+      "chinese": "除",
+      "pinyin": "chú",
+      "english": "GT: except"
+    },
+    {
+      "chinese": "其",
+      "pinyin": "qí",
+      "english": "GT: its"
+    },
+    {
+      "chinese": "饺",
+      "pinyin": "jiǎo",
+      "english": "GT: dumpling"
+    },
+    {
+      "chinese": "北方",
+      "pinyin": "běi fāng",
+      "english": "GT: north"
+    },
+    {
+      "chinese": "除了",
+      "pinyin": "chú le",
+      "english": "GT: apart from"
+    },
+    {
+      "chinese": "其他",
+      "pinyin": "qí tā",
+      "english": "GT: other"
+    },
+    {
+      "chinese": "饺子",
+      "pinyin": "jiǎo zi",
+      "english": "GT: Dumplings"
+    },
+    {
+      "chinese": "辣",
+      "pinyin": "là",
+      "english": "GT: hot"
+    },
+    {
+      "chinese": "极",
+      "pinyin": "jí",
+      "english": "GT: pole"
+    },
+    {
+      "chinese": "苦",
+      "pinyin": "kǔ",
+      "english": "GT: bitter"
+    },
+    {
+      "chinese": "盐",
+      "pinyin": "yán",
+      "english": "GT: salt"
+    },
+    {
+      "chinese": "咸",
+      "pinyin": "Xián; xián; xián",
+      "english": "GT: salty"
+    },
+    {
+      "chinese": "南",
+      "pinyin": "Nán; nán",
+      "english": "GT: south"
+    },
+    {
+      "chinese": "南方",
+      "pinyin": "nán fāng",
+      "english": "GT: south"
+    },
+    {
+      "chinese": "难吃",
+      "pinyin": "nán chī",
+      "english": "GT: Unpalatable"
+    }
+  ],
+  "lessonNumber": null
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Gourmet 1",
+  "vocabulary": [
+    {
+      "chinese": "拉面",
+      "pinyin": "lā miàn",
+      "english": "GT: Hand-Pulled Noodle"
+    },
+    {
+      "chinese": "点心",
+      "pinyin": "diǎn xin",
+      "english": "GT: dessert"
+    },
+    {
+      "chinese": "小笼包",
+      "pinyin": "xiǎo lóng bāo",
+      "english": "GT: Dumplings"
+    },
+    {
+      "chinese": "拉",
+      "pinyin": "lā",
+      "english": "GT: Pull"
+    },
+    {
+      "chinese": "笼",
+      "pinyin": "lóng; lǒng",
+      "english": "GT: cage"
+    },
+    {
+      "chinese": "粥",
+      "pinyin": "yù; zhōu",
+      "english": "GT: Gruel"
+    },
+    {
+      "chinese": "油条",
+      "pinyin": "yóu tiáo",
+      "english": "GT: Fritters"
+    },
+    {
+      "chinese": "豆浆",
+      "pinyin": "dòu jiāng",
+      "english": "GT: Milk"
+    },
+    {
+      "chinese": "豆",
+      "pinyin": "dòu",
+      "english": "GT: beans"
+    },
+    {
+      "chinese": "浆",
+      "pinyin": "jiāng; jiàng",
+      "english": "GT: Pulp"
+    },
+    {
+      "chinese": "火锅",
+      "pinyin": "huǒ guō",
+      "english": "GT: Hot Pot"
+    },
+    {
+      "chinese": "包子",
+      "pinyin": "bāo zi",
+      "english": "GT: bun"
+    },
+    {
+      "chinese": "炒饭",
+      "pinyin": "chǎo fàn",
+      "english": "GT: Fried rice"
+    },
+    {
+      "chinese": "锅",
+      "pinyin": "guō",
+      "english": "GT: pot"
+    },
+    {
+      "chinese": "炒",
+      "pinyin": "chǎo",
+      "english": "GT: fry"
+    }
+  ],
+  "lessonNumber": null
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Time 1",
+  "vocabulary": [
+    {
+      "chinese": "年",
+      "pinyin": "Nián; nián; nián",
+      "english": "year"
+    },
+    {
+      "chinese": "月",
+      "pinyin": "yuè",
+      "english": "moon"
+    },
+    {
+      "chinese": "几",
+      "pinyin": "jī; jī; jǐ",
+      "english": "how much"
+    },
+    {
+      "chinese": "〇",
+      "pinyin": "líng",
+      "english": "zero"
+    },
+    {
+      "chinese": "星期",
+      "pinyin": "xīng qī",
+      "english": "week"
+    },
+    {
+      "chinese": "明天",
+      "pinyin": "míng tiān",
+      "english": "tomorrow"
+    },
+    {
+      "chinese": "日",
+      "pinyin": "Rì; rì",
+      "english": "sun"
+    },
+    {
+      "chinese": "星",
+      "pinyin": "xīng",
+      "english": "star"
+    },
+    {
+      "chinese": "期",
+      "pinyin": "qī",
+      "english": "period of time"
+    },
+    {
+      "chinese": "点",
+      "pinyin": "diǎn",
+      "english": "o'clock"
+    },
+    {
+      "chinese": "现在",
+      "pinyin": "xiàn zài",
+      "english": "now"
+    },
+    {
+      "chinese": "半",
+      "pinyin": "bàn",
+      "english": "half"
+    },
+    {
+      "chinese": "现",
+      "pinyin": "xiàn",
+      "english": "to appear"
+    }
+  ],
+  "lessonNumber": null
+}

@@ -1,0 +1,10 @@
+{
+  "title":"Phrases 1",
+  "lessonNumber":11,
+  "vocabulary":[
+    {"chinese": "谢谢", "pinyin":"xiè xiè", "english":"thank you"},
+    {"chinese": "不客气", "pinyin":"bù kè qi", "english":"you're welcome"},
+    {"chinese": "对不起", "pinyin":"duì bu qǐ", "english":"sorry"},
+    {"chinese": "没关系", "pinyin":"méi guān xi", "english":"it doesn't matter"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title":"Greeting 3",
+  "lessonNumber":9,
+  "vocabulary":[
+    {"chinese": "天", "pinyin":"tiān", "english":"day"},
+    {"chinese": "今天", "pinyin":"jīn tiān", "english":"today"},
+    {"chinese": "早上", "pinyin":"zǎo shang", "english":"early morning"},
+    {"chinese": "早上好", "pinyin":"zǎo shang hǎo", "english":"good morning"},
+    {"chinese": "怎么样", "pinyin":"zěn me yàng", "english":"how"},
+    {"chinese": "忙", "pinyin":"máng", "english":"busy"}
+  ]
+}

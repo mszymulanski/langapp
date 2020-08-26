@@ -1,0 +1,17 @@
+{
+  "title":"Name",
+  "lessonNumber":3,
+  "vocabulary":[
+    {"chinese": "我", "pinyin":"wǒ", "english":"I"},
+    {"chinese": "叫", "pinyin":"jiào", "english":"to be called"},
+    {"chinese": "姓", "pinyin":"xìng", "english":"last name"},
+    {"chinese": "华", "pinyin":"huá", "english":"given name Hua"},
+    {"chinese": "明", "pinyin":"míng", "english":"given name Ming"},
+    {"chinese": "张", "pinyin":"zhāng", "english":"last name Zhang"},
+    {"chinese": "李", "pinyin":"lǐ", "english":"last name Li"},
+    {"chinese": "王", "pinyin":"wáng", "english":"last name Wang"},
+    {"chinese": "名字", "pinyin":"míng zi", "english":"name"},
+    {"chinese": "什么", "pinyin":"shén me", "english":"what"},
+    {"chinese": "呢", "pinyin":"ne", "english":"question particle"}
+  ]
+}

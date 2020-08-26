@@ -1,0 +1,96 @@
+{
+  "title": "Weather",
+  "vocabulary": [
+    {
+      "chinese": "冷",
+      "pinyin": "Lěng; lěng",
+      "english": "GT: cold"
+    },
+    {
+      "chinese": "晴",
+      "pinyin": "qíng",
+      "english": "GT: clear"
+    },
+    {
+      "chinese": "天气",
+      "pinyin": "tiān qì",
+      "english": "GT: the weather"
+    },
+    {
+      "chinese": "雨",
+      "pinyin": "yǔ; yù",
+      "english": "GT: rain"
+    },
+    {
+      "chinese": "雪",
+      "pinyin": "Xuě; xuě",
+      "english": "GT: snow"
+    },
+    {
+      "chinese": "阴",
+      "pinyin": "Yīn; yīn",
+      "english": "GT: Yin"
+    },
+    {
+      "chinese": "着",
+      "pinyin": "zhāo; zháo; zhe; zhuó",
+      "english": "GT: The"
+    },
+    {
+      "chinese": "伞",
+      "pinyin": "sǎn; sǎn",
+      "english": "GT: umbrella"
+    },
+    {
+      "chinese": "带",
+      "pinyin": "dài",
+      "english": "GT: band"
+    },
+    {
+      "chinese": "外面",
+      "pinyin": "wài miàn",
+      "english": "GT: outside"
+    },
+    {
+      "chinese": "可能",
+      "pinyin": "kě néng",
+      "english": "GT: may"
+    },
+    {
+      "chinese": "刮",
+      "pinyin": "guā; guā",
+      "english": "GT: scratch"
+    },
+    {
+      "chinese": "风",
+      "pinyin": "fēng",
+      "english": "GT: wind"
+    },
+    {
+      "chinese": "如果",
+      "pinyin": "rú guǒ",
+      "english": "GT: in case"
+    },
+    {
+      "chinese": "就",
+      "pinyin": "jiù",
+      "english": "GT: on"
+    },
+    {
+      "chinese": "从来",
+      "pinyin": "cóng lái",
+      "english": "GT: Never"
+    },
+    {
+      "chinese": "如",
+      "pinyin": "rú",
+      "english": "GT: Such as"
+    },
+    {
+      "chinese": "里面",
+      "pinyin": "lǐ miàn",
+      "english": "GT: inside"
+    }
+  ],
+  "lessonNumber": null
+}

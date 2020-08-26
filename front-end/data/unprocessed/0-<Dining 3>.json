@@ -1,0 +1,101 @@
+{
+  "title": "Dining 3",
+  "vocabulary": [
+    {
+      "chinese": "费",
+      "pinyin": "Fèi; fèi",
+      "english": "GT: fee"
+    },
+    {
+      "chinese": "完",
+      "pinyin": "wán",
+      "english": "GT: Finish"
+    },
+    {
+      "chinese": "经",
+      "pinyin": "Jīng; jīng",
+      "english": "GT: through"
+    },
+    {
+      "chinese": "已",
+      "pinyin": "yǐ",
+      "english": "GT: Already"
+    },
+    {
+      "chinese": "已经",
+      "pinyin": "yǐ jīng",
+      "english": "GT: already"
+    },
+    {
+      "chinese": "小费",
+      "pinyin": "xiǎo fèi",
+      "english": "GT: tip"
+    },
+    {
+      "chinese": "饱",
+      "pinyin": "bǎo",
+      "english": "GT: full"
+    },
+    {
+      "chinese": "好吃",
+      "pinyin": "hǎo chī; hào chī",
+      "english": "GT: good to eat"
+    },
+    {
+      "chinese": "真",
+      "pinyin": "zhēn",
+      "english": "GT: true"
+    },
+    {
+      "chinese": "饿",
+      "pinyin": "è",
+      "english": "GT: hungry"
+    },
+    {
+      "chinese": "好喝",
+      "pinyin": "hǎo hē",
+      "english": "GT: Tasty"
+    },
+    {
+      "chinese": "渴",
+      "pinyin": "kě",
+      "english": "GT: thirsty"
+    },
+    {
+      "chinese": "巧克力",
+      "pinyin": "qiǎo kè lì",
+      "english": "GT: chocolate"
+    },
+    {
+      "chinese": "味道",
+      "pinyin": "wèi dao",
+      "english": "GT: taste"
+    },
+    {
+      "chinese": "甜点",
+      "pinyin": "tián diǎn",
+      "english": "GT: dessert"
+    },
+    {
+      "chinese": "甜",
+      "pinyin": "tián",
+      "english": "GT: sweet"
+    },
+    {
+      "chinese": "巧",
+      "pinyin": "qiǎo",
+      "english": "GT: Opportunely"
+    },
+    {
+      "chinese": "克",
+      "pinyin": "kè; Kè; kēi",
+      "english": "GT: Gram"
+    },
+    {
+      "chinese": "力",
+      "pinyin": "Lì; lì",
+      "english": "GT: force"
+    }
+  ],
+  "lessonNumber": null
+}

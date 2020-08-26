@@ -1,0 +1,86 @@
+{
+  "title": "Personality and Feelings",
+  "vocabulary": [
+    {
+      "chinese": "看起来",
+      "pinyin": "kàn qǐ lai",
+      "english": "GT: Looks"
+    },
+    {
+      "chinese": "奇怪",
+      "pinyin": "qí guài",
+      "english": "GT: strange"
+    },
+    {
+      "chinese": "生气",
+      "pinyin": "shēng qì",
+      "english": "GT: pissed off"
+    },
+    {
+      "chinese": "紧张",
+      "pinyin": "jǐn zhāng",
+      "english": "GT: tension"
+    },
+    {
+      "chinese": "奇",
+      "pinyin": "jī; qí",
+      "english": "GT: odd"
+    },
+    {
+      "chinese": "怪",
+      "pinyin": "guài",
+      "english": "GT: strange"
+    },
+    {
+      "chinese": "紧",
+      "pinyin": "jǐn",
+      "english": "GT: tight"
+    },
+    {
+      "chinese": "难过",
+      "pinyin": "nán guò",
+      "english": "GT: Sorry"
+    },
+    {
+      "chinese": "哭",
+      "pinyin": "kū",
+      "english": "GT: cry"
+    },
+    {
+      "chinese": "可怕",
+      "pinyin": "kě pà",
+      "english": "GT: terrible"
+    },
+    {
+      "chinese": "热情",
+      "pinyin": "rè qíng",
+      "english": "GT: enthusiasm"
+    },
+    {
+      "chinese": "关心",
+      "pinyin": "guān xīn",
+      "english": "GT: care"
+    },
+    {
+      "chinese": "经常",
+      "pinyin": "jīng cháng",
+      "english": "GT: often"
+    },
+    {
+      "chinese": "遇到",
+      "pinyin": "yù dào",
+      "english": "GT: Experience"
+    },
+    {
+      "chinese": "好笑",
+      "pinyin": "hǎo xiào",
+      "english": "GT: funny"
+    },
+    {
+      "chinese": "遇",
+      "pinyin": "Yù; yù",
+      "english": "GT: Encounter"
+    }
+  ],
+  "lessonNumber": null
+}

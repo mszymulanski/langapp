@@ -1,0 +1,106 @@
+{
+  "title": "School",
+  "vocabulary": [
+    {
+      "chinese": "同",
+      "pinyin": "tóng; tóng; tòng",
+      "english": "GT: with"
+    },
+    {
+      "chinese": "课",
+      "pinyin": "kè",
+      "english": "GT: class"
+    },
+    {
+      "chinese": "教",
+      "pinyin": "Jiào; jiāo; jiào",
+      "english": "GT: teach"
+    },
+    {
+      "chinese": "教室",
+      "pinyin": "jiào shì",
+      "english": "GT: Classroom"
+    },
+    {
+      "chinese": "同学",
+      "pinyin": "tóng xué",
+      "english": "GT: Classmate"
+    },
+    {
+      "chinese": "地理",
+      "pinyin": "dì lǐ",
+      "english": "GT: Geography"
+    },
+    {
+      "chinese": "理",
+      "pinyin": "lǐ",
+      "english": "GT: Reason"
+    },
+    {
+      "chinese": "懂",
+      "pinyin": "dǒng",
+      "english": "GT: understand"
+    },
+    {
+      "chinese": "问题",
+      "pinyin": "wèn tí",
+      "english": "GT: problem"
+    },
+    {
+      "chinese": "笔",
+      "pinyin": "bǐ",
+      "english": "GT: pen"
+    },
+    {
+      "chinese": "题",
+      "pinyin": "Tí; tí",
+      "english": "GT: question"
+    },
+    {
+      "chinese": "美术",
+      "pinyin": "měi shù",
+      "english": "GT: art"
+    },
+    {
+      "chinese": "术",
+      "pinyin": "shù; zhú",
+      "english": "GT: Technique"
+    },
+    {
+      "chinese": "考试",
+      "pinyin": "kǎo shì",
+      "english": "GT: examination"
+    },
+    {
+      "chinese": "准备",
+      "pinyin": "zhǔn bèi",
+      "english": "GT: ready"
+    },
+    {
+      "chinese": "考",
+      "pinyin": "kǎo; kǎo",
+      "english": "GT: test"
+    },
+    {
+      "chinese": "备",
+      "pinyin": "bèi",
+      "english": "GT: Equipment"
+    },
+    {
+      "chinese": "科学",
+      "pinyin": "kē xué",
+      "english": "GT: science"
+    },
+    {
+      "chinese": "科",
+      "pinyin": "kē",
+      "english": "GT: Family"
+    },
+    {
+      "chinese": "下课",
+      "pinyin": "xià kè",
+      "english": "GT: Finish class"
+    }
+  ],
+  "lessonNumber": null
+}

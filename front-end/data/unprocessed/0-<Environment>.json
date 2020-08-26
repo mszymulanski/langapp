@@ -1,0 +1,131 @@
+{
+  "title": "Environment",
+  "vocabulary": [
+    {
+      "chinese": "境",
+      "pinyin": "jìng",
+      "english": "GT: territory"
+    },
+    {
+      "chinese": "环",
+      "pinyin": "Huán; huán",
+      "english": "GT: ring"
+    },
+    {
+      "chinese": "层",
+      "pinyin": "céng",
+      "english": "GT: Floor"
+    },
+    {
+      "chinese": "方便",
+      "pinyin": "fāng biàn",
+      "english": "GT: Convenience"
+    },
+    {
+      "chinese": "环境",
+      "pinyin": "huán jìng",
+      "english": "GT: surroundings"
+    },
+    {
+      "chinese": "草",
+      "pinyin": "cǎo",
+      "english": "GT: grass"
+    },
+    {
+      "chinese": "太阳",
+      "pinyin": "tài yang",
+      "english": "GT: sun"
+    },
+    {
+      "chinese": "星星",
+      "pinyin": "xīng xing",
+      "english": "GT: star"
+    },
+    {
+      "chinese": "阳",
+      "pinyin": "yáng",
+      "english": "GT: Positive"
+    },
+    {
+      "chinese": "安静",
+      "pinyin": "ān jìng",
+      "english": "GT: be quiet"
+    },
+    {
+      "chinese": "楼",
+      "pinyin": "Lóu; lóu",
+      "english": "GT: floor"
+    },
+    {
+      "chinese": "静",
+      "pinyin": "jìng",
+      "english": "GT: Quiet"
+    },
+    {
+      "chinese": "声音",
+      "pinyin": "shēng yīn",
+      "english": "GT: sound"
+    },
+    {
+      "chinese": "影响",
+      "pinyin": "yǐng xiǎng",
+      "english": "GT: influences"
+    },
+    {
+      "chinese": "邻居",
+      "pinyin": "lín jū",
+      "english": "GT: neighbor"
+    },
+    {
+      "chinese": "声",
+      "pinyin": "shēng",
+      "english": "GT: sound"
+    },
+    {
+      "chinese": "邻",
+      "pinyin": "lín",
+      "english": "GT: adjacent"
+    },
+    {
+      "chinese": "响",
+      "pinyin": "xiǎng",
+      "english": "GT: ring"
+    },
+    {
+      "chinese": "居",
+      "pinyin": "Jū; jī; jū",
+      "english": "GT: House"
+    },
+    {
+      "chinese": "垃圾",
+      "pinyin": "lā jī",
+      "english": "GT: Rubbish"
+    },
+    {
+      "chinese": "桶",
+      "pinyin": "tǒng",
+      "english": "GT: barrel"
+    },
+    {
+      "chinese": "丢",
+      "pinyin": "diū",
+      "english": "GT: throw"
+    },
+    {
+      "chinese": "脏",
+      "pinyin": "zàng; zāng",
+      "english": "GT: dirty"
+    },
+    {
+      "chinese": "垃",
+      "pinyin": "lā",
+      "english": "GT: garbage"
+    },
+    {
+      "chinese": "圾",
+      "pinyin": "jī",
+      "english": "GT: Rubbish"
+    }
+  ],
+  "lessonNumber": null
+}

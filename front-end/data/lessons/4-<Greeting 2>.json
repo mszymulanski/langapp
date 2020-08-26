@@ -1,0 +1,11 @@
+{
+  "title":"Greeting 2",
+  "lessonNumber":4,
+  "vocabulary":[
+    {"chinese": "很", "pinyin":"hěn", "english":"very"},
+    {"chinese": "高兴", "pinyin":"gāo xìng", "english":"happy"},
+    {"chinese": "认识", "pinyin":"rèn shi", "english":"to know"},
+    {"chinese": "也", "pinyin":"yě", "english":"too; also"}
+
+  ]
+}

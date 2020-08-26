@@ -1,0 +1,91 @@
+{
+  "title": "Body Parts",
+  "vocabulary": [
+    {
+      "chinese": "朵",
+      "pinyin": "duǒ",
+      "english": "GT: Flowers"
+    },
+    {
+      "chinese": "睛",
+      "pinyin": "jīng",
+      "english": "GT: eye"
+    },
+    {
+      "chinese": "绿",
+      "pinyin": "lǜ",
+      "english": "GT: green"
+    },
+    {
+      "chinese": "耳",
+      "pinyin": "ěr",
+      "english": "GT: ear"
+    },
+    {
+      "chinese": "眼",
+      "pinyin": "yǎn",
+      "english": "GT: eye"
+    },
+    {
+      "chinese": "耳朵",
+      "pinyin": "ěr duo",
+      "english": "GT: ear"
+    },
+    {
+      "chinese": "眼睛",
+      "pinyin": "yǎn jing",
+      "english": "GT: eye"
+    },
+    {
+      "chinese": "头发",
+      "pinyin": "tóu fa",
+      "english": "GT: hair"
+    },
+    {
+      "chinese": "脸",
+      "pinyin": "liǎn",
+      "english": "GT: face"
+    },
+    {
+      "chinese": "又",
+      "pinyin": "yòu",
+      "english": "GT: also"
+    },
+    {
+      "chinese": "黑",
+      "pinyin": "Hēi; hēi",
+      "english": "GT: black"
+    },
+    {
+      "chinese": "嘴巴",
+      "pinyin": "zuǐ ba",
+      "english": "GT: mouth"
+    },
+    {
+      "chinese": "鼻子",
+      "pinyin": "bí zi",
+      "english": "GT: nose"
+    },
+    {
+      "chinese": "脚",
+      "pinyin": "jiǎo",
+      "english": "GT: foot"
+    },
+    {
+      "chinese": "嘴",
+      "pinyin": "zuǐ",
+      "english": "GT: mouth"
+    },
+    {
+      "chinese": "鼻",
+      "pinyin": "bí",
+      "english": "GT: nose"
+    },
+    {
+      "chinese": "巴",
+      "pinyin": "Bā; bā",
+      "english": "GT: -bar"
+    }
+  ],
+  "lessonNumber": null
+}

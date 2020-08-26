@@ -1,0 +1,136 @@
+{
+  "title": "Supermarket",
+  "vocabulary": [
+    {
+      "chinese": "些",
+      "pinyin": "xiē",
+      "english": "some"
+    },
+    {
+      "chinese": "西",
+      "pinyin": "Xī; xī",
+      "english": "West"
+    },
+    {
+      "chinese": "东",
+      "pinyin": "Dōng; dōng",
+      "english": "East"
+    },
+    {
+      "chinese": "东西",
+      "pinyin": "dōng xī; dōng xi",
+      "english": "thing"
+    },
+    {
+      "chinese": "超市",
+      "pinyin": "chāo shì",
+      "english": "supermarket"
+    },
+    {
+      "chinese": "水果",
+      "pinyin": "shuǐ guǒ",
+      "english": "fruit"
+    },
+    {
+      "chinese": "超",
+      "pinyin": "chāo",
+      "english": "super"
+    },
+    {
+      "chinese": "市",
+      "pinyin": "shì",
+      "english": "market"
+    },
+    {
+      "chinese": "果",
+      "pinyin": "guǒ",
+      "english": "fruit"
+    },
+    {
+      "chinese": "给",
+      "pinyin": "gěi; jǐ",
+      "english": "give"
+    },
+    {
+      "chinese": "苹果",
+      "pinyin": "píng guǒ",
+      "english": "apple"
+    },
+    {
+      "chinese": "西瓜",
+      "pinyin": "xī guā",
+      "english": "watermelon"
+    },
+    {
+      "chinese": "苹",
+      "pinyin": "píng; pín; píng",
+      "english": "apple"
+    },
+    {
+      "chinese": "瓜",
+      "pinyin": "guā",
+      "english": "melon"
+    },
+    {
+      "chinese": "鸡蛋",
+      "pinyin": "jī dàn",
+      "english": "(chicken) egg"
+    },
+    {
+      "chinese": "新鲜",
+      "pinyin": "xīn xiān",
+      "english": "fresh (experience, food etc)"
+    },
+    {
+      "chinese": "鸡",
+      "pinyin": "jī",
+      "english": "chicken"
+    },
+    {
+      "chinese": "蛋",
+      "pinyin": "dàn",
+      "english": "egg"
+    },
+    {
+      "chinese": "鲜",
+      "pinyin": "xiān; xiǎn; xiān",
+      "english": "fresh"
+    },
+    {
+      "chinese": "蔬菜",
+      "pinyin": "shū cài",
+      "english": "vegetables"
+    },
+    {
+      "chinese": "蔬",
+      "pinyin": "shū",
+      "english": "vegetables"
+    },
+    {
+      "chinese": "包",
+      "pinyin": "Bāo; bāo",
+      "english": "package"
+    },
+    {
+      "chinese": "米",
+      "pinyin": "Mǐ; mǐ",
+      "english": "rice (uncooked)"
+    },
+    {
+      "chinese": "面包",
+      "pinyin": "miàn bāo",
+      "english": "bread"
+    },
+    {
+      "chinese": "袋",
+      "pinyin": "dài",
+      "english": "bag"
+    },
+    {
+      "chinese": "糖",
+      "pinyin": "táng",
+      "english": "sugar"
+    }
+  ],
+  "lessonNumber": null
+}

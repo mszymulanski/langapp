@@ -1,0 +1,66 @@
+{
+  "title": "People 3",
+  "vocabulary": [
+    {
+      "chinese": "级",
+      "pinyin": "jí",
+      "english": "GT: level"
+    },
+    {
+      "chinese": "个子",
+      "pinyin": "gè zi",
+      "english": "GT: Stature"
+    },
+    {
+      "chinese": "年级",
+      "pinyin": "nián jí",
+      "english": "GT: grade"
+    },
+    {
+      "chinese": "小学",
+      "pinyin": "xiǎo xué",
+      "english": "GT: primary school"
+    },
+    {
+      "chinese": "初中",
+      "pinyin": "chū zhōng",
+      "english": "GT: junior high school"
+    },
+    {
+      "chinese": "初",
+      "pinyin": "chū",
+      "english": "GT: First"
+    },
+    {
+      "chinese": "较",
+      "pinyin": "jiào",
+      "english": "GT: Relatively"
+    },
+    {
+      "chinese": "年轻",
+      "pinyin": "nián qīng",
+      "english": "GT: young"
+    },
+    {
+      "chinese": "比较",
+      "pinyin": "bǐ jiào",
+      "english": "GT: Compare"
+    },
+    {
+      "chinese": "眼镜",
+      "pinyin": "yǎn jìng",
+      "english": "GT: glasses"
+    },
+    {
+      "chinese": "戴",
+      "pinyin": "Dài; dài",
+      "english": "GT: wore"
+    },
+    {
+      "chinese": "镜",
+      "pinyin": "jìng",
+      "english": "GT: mirror"
+    }
+  ],
+  "lessonNumber": null
+}

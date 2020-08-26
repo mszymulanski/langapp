@@ -1,0 +1,101 @@
+{
+  "title": "Gourmet 2",
+  "vocabulary": [
+    {
+      "chinese": "珠",
+      "pinyin": "zhū",
+      "english": "GT: Pearl"
+    },
+    {
+      "chinese": "汤",
+      "pinyin": "Tāng; shāng; tāng",
+      "english": "GT: soup"
+    },
+    {
+      "chinese": "酸",
+      "pinyin": "suān",
+      "english": "GT: acid"
+    },
+    {
+      "chinese": "珍",
+      "pinyin": "zhēn",
+      "english": "GT: Treasure"
+    },
+    {
+      "chinese": "珍珠奶茶",
+      "pinyin": "zhēn zhū nǎi chá",
+      "english": "GT: Pearl milk tea"
+    },
+    {
+      "chinese": "酸辣汤",
+      "pinyin": "suān là tāng",
+      "english": "GT: Hot and sour soup"
+    },
+    {
+      "chinese": "北京烤鸭",
+      "pinyin": "Běi jīng kǎo yā",
+      "english": "GT: Peking duck"
+    },
+    {
+      "chinese": "春卷",
+      "pinyin": "chūn juǎn",
+      "english": "GT: Spring Rolls"
+    },
+    {
+      "chinese": "豆花",
+      "pinyin": "dòu huā",
+      "english": "GT: Curd"
+    },
+    {
+      "chinese": "烤",
+      "pinyin": "kǎo",
+      "english": "GT: grilled"
+    },
+    {
+      "chinese": "鸭",
+      "pinyin": "yā",
+      "english": "GT: duck"
+    },
+    {
+      "chinese": "卷",
+      "pinyin": "juǎn; juàn; juǎn",
+      "english": "GT: volume"
+    },
+    {
+      "chinese": "宫保鸡丁",
+      "pinyin": "gōng bǎo jī dīng",
+      "english": "GT: Kung Pao Chicken"
+    },
+    {
+      "chinese": "卤肉饭",
+      "pinyin": "lǔ ròu fàn",
+      "english": "GT: Braised pork on rice"
+    },
+    {
+      "chinese": "馒头",
+      "pinyin": "mán tou",
+      "english": "GT: steamed bread"
+    },
+    {
+      "chinese": "保",
+      "pinyin": "Bǎo; bǎo",
+      "english": "GT: Insurance"
+    },
+    {
+      "chinese": "卤",
+      "pinyin": "lǔ; lǔ",
+      "english": "GT: halogen"
+    },
+    {
+      "chinese": "馒",
+      "pinyin": "mán",
+      "english": "GT: steamed bread"
+    },
+    {
+      "chinese": "丁",
+      "pinyin": "Dīng; dīng",
+      "english": "GT: Ding"
+    }
+  ],
+  "lessonNumber": null
+}

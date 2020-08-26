@@ -1,0 +1,91 @@
+{
+  "title": "Invitiation 1",
+  "vocabulary": [
+    {
+      "chinese": "吧",
+      "pinyin": "bā; ba",
+      "english": "GT: It"
+    },
+    {
+      "chinese": "出去",
+      "pinyin": "chū qù",
+      "english": "GT: Out"
+    },
+    {
+      "chinese": "时间",
+      "pinyin": "shí jiān",
+      "english": "GT: time"
+    },
+    {
+      "chinese": "时候",
+      "pinyin": "shí hou",
+      "english": "GT: time"
+    },
+    {
+      "chinese": "空",
+      "pinyin": "kōng; kòng",
+      "english": "GT: air"
+    },
+    {
+      "chinese": "来",
+      "pinyin": "lái",
+      "english": "GT: Come"
+    },
+    {
+      "chinese": "候",
+      "pinyin": "hòu",
+      "english": "GT: Wait"
+    },
+    {
+      "chinese": "过",
+      "pinyin": "Guò; guò; guo",
+      "english": "GT: Live"
+    },
+    {
+      "chinese": "一起",
+      "pinyin": "yī qǐ",
+      "english": "GT: together"
+    },
+    {
+      "chinese": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "english": "GT: Feel embarrassed"
+    },
+    {
+      "chinese": "告诉",
+      "pinyin": "gào sù; gào su",
+      "english": "GT: tell"
+    },
+    {
+      "chinese": "告",
+      "pinyin": "gào",
+      "english": "GT: Tell"
+    },
+    {
+      "chinese": "诉",
+      "pinyin": "sù",
+      "english": "GT: Complaint"
+    },
+    {
+      "chinese": "约会",
+      "pinyin": "yuē huì",
+      "english": "GT: appointment"
+    },
+    {
+      "chinese": "浪漫",
+      "pinyin": "làng màn",
+      "english": "GT: romantic"
+    },
+    {
+      "chinese": "浪",
+      "pinyin": "làng",
+      "english": "GT: wave"
+    },
+    {
+      "chinese": "漫",
+      "pinyin": "màn",
+      "english": "GT: Overflow"
+    }
+  ],
+  "lessonNumber": null
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Travel 2",
+  "vocabulary": [
+    {
+      "chinese": "证",
+      "pinyin": "zhèng; zhèng",
+      "english": "GT: certificate"
+    },
+    {
+      "chinese": "签",
+      "pinyin": "qiān; qiān",
+      "english": "GT: sign"
+    },
+    {
+      "chinese": "护",
+      "pinyin": "hù",
+      "english": "GT: Protect"
+    },
+    {
+      "chinese": "护照",
+      "pinyin": "hù zhào",
+      "english": "GT: passport"
+    },
+    {
+      "chinese": "签证",
+      "pinyin": "qiān zhèng",
+      "english": "GT: visa"
+    },
+    {
+      "chinese": "发现",
+      "pinyin": "fā xiàn",
+      "english": "GT: Find"
+    },
+    {
+      "chinese": "起飞",
+      "pinyin": "qǐ fēi",
+      "english": "GT: take off"
+    },
+    {
+      "chinese": "离开",
+      "pinyin": "lí kāi",
+      "english": "GT: go away"
+    },
+    {
+      "chinese": "检查",
+      "pinyin": "jiǎn chá",
+      "english": "GT: an examination"
+    },
+    {
+      "chinese": "行李",
+      "pinyin": "xíng li",
+      "english": "GT: Baggage"
+    },
+    {
+      "chinese": "安全",
+      "pinyin": "ān quán",
+      "english": "GT: Safety"
+    },
+    {
+      "chinese": "检",
+      "pinyin": "jiǎn",
+      "english": "GT: Check"
+    },
+    {
+      "chinese": "查",
+      "pinyin": "Zhā; chá; zhā",
+      "english": "GT: check"
+    },
+    {
+      "chinese": "几乎",
+      "pinyin": "jī hū",
+      "english": "GT: almost"
+    },
+    {
+      "chinese": "忘记",
+      "pinyin": "wàng jì",
+      "english": "GT: forget"
+    },
+    {
+      "chinese": "海关",
+      "pinyin": "hǎi guān",
+      "english": "GT: Customs"
+    },
+    {
+      "chinese": "忘",
+      "pinyin": "wàng",
+      "english": "GT: forget"
+    },
+    {
+      "chinese": "记",
+      "pinyin": "jì",
+      "english": "GT: Remember"
+    },
+    {
+      "chinese": "乎",
+      "pinyin": "hū",
+      "english": "GT: Down"
+    }
+  ],
+  "lessonNumber": null
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Business 2",
+  "vocabulary": [
+    {
+      "chinese": "险",
+      "pinyin": "xiǎn",
+      "english": "GT: risk"
+    },
+    {
+      "chinese": "投",
+      "pinyin": "tóu",
+      "english": "GT: cast"
+    },
+    {
+      "chinese": "保险",
+      "pinyin": "bǎo xiǎn",
+      "english": "GT: Insurance"
+    },
+    {
+      "chinese": "风险",
+      "pinyin": "fēng xiǎn",
+      "english": "GT: risk"
+    },
+    {
+      "chinese": "投资",
+      "pinyin": "tóu zī",
+      "english": "GT: investment"
+    },
+    {
+      "chinese": "律师",
+      "pinyin": "lǜ shī",
+      "english": "GT: lawyer"
+    },
+    {
+      "chinese": "版权",
+      "pinyin": "bǎn quán",
+      "english": "GT: copyright"
+    },
+    {
+      "chinese": "咨询",
+      "pinyin": "zī xún",
+      "english": "GT: advisory"
+    },
+    {
+      "chinese": "律",
+      "pinyin": "Lǜ; lǜ",
+      "english": "GT: law"
+    },
+    {
+      "chinese": "版",
+      "pinyin": "bǎn",
+      "english": "GT: Version"
+    },
+    {
+      "chinese": "咨",
+      "pinyin": "zī",
+      "english": "GT: Advisory"
+    },
+    {
+      "chinese": "权",
+      "pinyin": "Quán; quán",
+      "english": "GT: right"
+    },
+    {
+      "chinese": "询",
+      "pinyin": "xún",
+      "english": "GT: Query"
+    },
+    {
+      "chinese": "保持",
+      "pinyin": "bǎo chí",
+      "english": "GT: maintain"
+    },
+    {
+      "chinese": "联系",
+      "pinyin": "lián xì",
+      "english": "GT: contact"
+    },
+    {
+      "chinese": "联",
+      "pinyin": "lián",
+      "english": "GT: United"
+    },
+    {
+      "chinese": "持",
+      "pinyin": "chí",
+      "english": "GT: hold"
+    },
+    {
+      "chinese": "合作",
+      "pinyin": "hé zuò",
+      "english": "GT: Cooperation"
+    },
+    {
+      "chinese": "愉快",
+      "pinyin": "yú kuài",
+      "english": "GT: happy"
+    },
+    {
+      "chinese": "辛苦",
+      "pinyin": "xīn kǔ",
+      "english": "GT: hard"
+    },
+    {
+      "chinese": "感谢",
+      "pinyin": "gǎn xiè",
+      "english": "GT: thank"
+    },
+    {
+      "chinese": "愉",
+      "pinyin": "yú",
+      "english": "GT: Discovery"
+    },
+    {
+      "chinese": "辛",
+      "pinyin": "Xīn; xīn",
+      "english": "GT: Xin"
+    }
+  ],
+  "lessonNumber": null
+}

@@ -1,0 +1,15 @@
+{
+  "title":"Location 1",
+  "lessonNumber":10,
+  "vocabulary":[
+    {"chinese": "住", "pinyin":"zhù", "english":"to live"},
+    {"chinese": "在", "pinyin":"zài", "english":"in"},
+    {"chinese": "哪儿", "pinyin":"nǎr", "english":"where"},
+    {"chinese": "家", "pinyin":"jiā", "english":"home"},
+    {"chinese": "北京", "pinyin":"běi jīng", "english":"Beijing"},
+    {"chinese": "纽约", "pinyin":"niǔ yuē", "english":"New York"},
+    {"chinese": "香港", "pinyin":"xiāng gǎng", "english":"Hone Kong"},
+    {"chinese": "台湾", "pinyin":"tái wān", "english":"Taiwan"},
+    {"chinese": "伦敦", "pinyin":"lún dūn", "english":"London"}
+  ]
+}

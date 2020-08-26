@@ -1,0 +1,116 @@
+{
+  "title": "Exam",
+  "vocabulary": [
+    {
+      "chinese": "寒",
+      "pinyin": "hán",
+      "english": "GT: cold"
+    },
+    {
+      "chinese": "暑",
+      "pinyin": "shǔ",
+      "english": "GT: Heat"
+    },
+    {
+      "chinese": "复",
+      "pinyin": "fù; fù",
+      "english": "GT: complex"
+    },
+    {
+      "chinese": "记得",
+      "pinyin": "jì de",
+      "english": "GT: remember"
+    },
+    {
+      "chinese": "复习",
+      "pinyin": "fù xí",
+      "english": "GT: review"
+    },
+    {
+      "chinese": "数学",
+      "pinyin": "shù xué",
+      "english": "GT: mathematics"
+    },
+    {
+      "chinese": "放假",
+      "pinyin": "fàng jià",
+      "english": "GT: holiday"
+    },
+    {
+      "chinese": "暑假",
+      "pinyin": "shǔ jià",
+      "english": "GT: summer vacation"
+    },
+    {
+      "chinese": "寒假",
+      "pinyin": "hán jià",
+      "english": "GT: winter vacation"
+    },
+    {
+      "chinese": "终于",
+      "pinyin": "zhōng yú",
+      "english": "GT: at last"
+    },
+    {
+      "chinese": "结束",
+      "pinyin": "jié shù",
+      "english": "GT: End"
+    },
+    {
+      "chinese": "放松",
+      "pinyin": "fàng sōng",
+      "english": "GT: Relax"
+    },
+    {
+      "chinese": "大学",
+      "pinyin": "Dà xué; dà xué",
+      "english": "GT: the University"
+    },
+    {
+      "chinese": "终",
+      "pinyin": "zhōng",
+      "english": "GT: end"
+    },
+    {
+      "chinese": "于",
+      "pinyin": "Yú; yú; yú",
+      "english": "GT: to"
+    },
+    {
+      "chinese": "束",
+      "pinyin": "Shù; shù",
+      "english": "GT: bundle"
+    },
+    {
+      "chinese": "成绩",
+      "pinyin": "chéng jì",
+      "english": "GT: Achievement"
+    },
+    {
+      "chinese": "担心",
+      "pinyin": "dān xīn",
+      "english": "GT: worry"
+    },
+    {
+      "chinese": "专业",
+      "pinyin": "zhuān yè",
+      "english": "GT: profession"
+    },
+    {
+      "chinese": "担",
+      "pinyin": "dān; dàn",
+      "english": "GT: Dan"
+    },
+    {
+      "chinese": "专",
+      "pinyin": "zhuān",
+      "english": "GT: Special"
+    },
+    {
+      "chinese": "绩",
+      "pinyin": "jì",
+      "english": "GT: Merit"
+    }
+  ],
+  "lessonNumber": null
+}

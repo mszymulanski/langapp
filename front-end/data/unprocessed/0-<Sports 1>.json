@@ -1,0 +1,91 @@
+{
+  "title": "Sports 1",
+  "vocabulary": [
+    {
+      "chinese": "步",
+      "pinyin": "Bù; bù",
+      "english": "GT: step"
+    },
+    {
+      "chinese": "跑",
+      "pinyin": "páo; pǎo",
+      "english": "GT: run"
+    },
+    {
+      "chinese": "泳",
+      "pinyin": "yǒng",
+      "english": "GT: swimming"
+    },
+    {
+      "chinese": "游泳",
+      "pinyin": "yóu yǒng",
+      "english": "GT: Swim"
+    },
+    {
+      "chinese": "跑步",
+      "pinyin": "pǎo bù",
+      "english": "GT: Run"
+    },
+    {
+      "chinese": "踢",
+      "pinyin": "tī",
+      "english": "GT: kick"
+    },
+    {
+      "chinese": "足球",
+      "pinyin": "zú qiú",
+      "english": "GT: football"
+    },
+    {
+      "chinese": "打",
+      "pinyin": "dá; dǎ",
+      "english": "GT: hit"
+    },
+    {
+      "chinese": "篮球",
+      "pinyin": "lán qiú",
+      "english": "GT: basketball"
+    },
+    {
+      "chinese": "足",
+      "pinyin": "jù; zú",
+      "english": "GT: leg"
+    },
+    {
+      "chinese": "篮",
+      "pinyin": "lán",
+      "english": "GT: basket"
+    },
+    {
+      "chinese": "球",
+      "pinyin": "qiú",
+      "english": "GT: ball"
+    },
+    {
+      "chinese": "运动",
+      "pinyin": "yùn dòng",
+      "english": "GT: motion"
+    },
+    {
+      "chinese": "马",
+      "pinyin": "Mǎ; mǎ",
+      "english": "GT: horse"
+    },
+    {
+      "chinese": "骑",
+      "pinyin": "jì; qí",
+      "english": "GT: ride"
+    },
+    {
+      "chinese": "运",
+      "pinyin": "yùn",
+      "english": "GT: Transport"
+    },
+    {
+      "chinese": "动",
+      "pinyin": "dòng",
+      "english": "GT: move"
+    }
+  ],
+  "lessonNumber": null
+}

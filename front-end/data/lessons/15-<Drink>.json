@@ -1,0 +1,51 @@
+{
+  "title": "Drink",
+  "vocabulary": [
+    {
+      "chinese": "要",
+      "pinyin": "yāo; yào",
+      "english": "to want"
+    },
+    {
+      "chinese": "热",
+      "pinyin": "rè",
+      "english": "to warm up"
+    },
+    {
+      "chinese": "冰",
+      "pinyin": "bīng",
+      "english": "ice"
+    },
+    {
+      "chinese": "牛奶",
+      "pinyin": "niú nǎi",
+      "english": "cow's milk"
+    },
+    {
+      "chinese": "咖啡",
+      "pinyin": "kā fēi",
+      "english": "coffee"
+    },
+    {
+      "chinese": "牛",
+      "pinyin": "Niú; niú",
+      "english": "ox"
+    },
+    {
+      "chinese": "奶",
+      "pinyin": "nǎi; nǎi",
+      "english": "milk"
+    },
+    {
+      "chinese": "咖",
+      "pinyin": "kā",
+      "english": ""
+    },
+    {
+      "chinese": "啡",
+      "pinyin": "fēi",
+      "english": ""
+    }
+  ],
+  "lessonNumber": null
+}

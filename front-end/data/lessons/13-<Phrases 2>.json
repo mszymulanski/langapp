@@ -1,0 +1,17 @@
+{
+  "title":"Phrases 2",
+  "lessonNumber":13,
+  "vocabulary":[
+    {"chinese": "请", "pinyin":"qǐng", "english":"please"},
+    {"chinese": "问", "pinyin":"wèn", "english":"to ask"},
+    {"chinese": "请问", "pinyin":"qǐng wèn", "english":"excuse me"},
+    {"chinese": "知道", "pinyin":"zhī dào", "english":"to know"},
+    {"chinese": "说", "pinyin":"shuō", "english":"to speak; to say"},
+    {"chinese": "语", "pinyin":"yǔ", "english":"language"},
+    {"chinese": "汉语", "pinyin":"hàn yǔ", "english":"Chinese"},
+    {"chinese": "英语", "pinyin":"yīng yǔ", "english":"English"},
+    {"chinese": "帮助", "pinyin":"bāng zhù", "english":"to help"},
+    {"chinese": "再", "pinyin":"zài", "english":"again"},
+    {"chinese": "一次", "pinyin":"yī cì", "english":"once"}
+  ]
+}

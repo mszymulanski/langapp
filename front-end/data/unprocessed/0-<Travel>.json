@@ -1,0 +1,96 @@
+{
+  "title": "Travel",
+  "vocabulary": [
+    {
+      "chinese": "远",
+      "pinyin": "yuǎn; yuàn",
+      "english": "GT: far"
+    },
+    {
+      "chinese": "离",
+      "pinyin": "chī; Lí; lí",
+      "english": "GT: from"
+    },
+    {
+      "chinese": "走路",
+      "pinyin": "zǒu lù",
+      "english": "GT: walk"
+    },
+    {
+      "chinese": "开车",
+      "pinyin": "kāi chē",
+      "english": "GT: Drive a car"
+    },
+    {
+      "chinese": "飞机",
+      "pinyin": "fēi jī",
+      "english": "GT: aircraft"
+    },
+    {
+      "chinese": "机场",
+      "pinyin": "jī chǎng",
+      "english": "GT: airport"
+    },
+    {
+      "chinese": "飞",
+      "pinyin": "fēi",
+      "english": "GT: fly"
+    },
+    {
+      "chinese": "场",
+      "pinyin": "cháng; chǎng",
+      "english": "GT: field"
+    },
+    {
+      "chinese": "靠",
+      "pinyin": "kào",
+      "english": "GT: by"
+    },
+    {
+      "chinese": "停",
+      "pinyin": "tíng",
+      "english": "GT: stop"
+    },
+    {
+      "chinese": "火车",
+      "pinyin": "huǒ chē",
+      "english": "GT: train"
+    },
+    {
+      "chinese": "票",
+      "pinyin": "piào",
+      "english": "GT: ticket"
+    },
+    {
+      "chinese": "机票",
+      "pinyin": "jī piào",
+      "english": "GT: Air tickets"
+    },
+    {
+      "chinese": "火",
+      "pinyin": "Huǒ; huǒ",
+      "english": "GT: fire"
+    },
+    {
+      "chinese": "迟到",
+      "pinyin": "chí dào",
+      "english": "GT: be late"
+    },
+    {
+      "chinese": "让",
+      "pinyin": "ràng",
+      "english": "GT: Let"
+    },
+    {
+      "chinese": "怎么办",
+      "pinyin": "zěn me bàn",
+      "english": "GT: How to do"
+    },
+    {
+      "chinese": "迟",
+      "pinyin": "Chí; chí",
+      "english": "GT: late"
+    }
+  ],
+  "lessonNumber": null
+}

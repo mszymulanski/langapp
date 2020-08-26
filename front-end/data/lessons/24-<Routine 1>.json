@@ -1,0 +1,86 @@
+{
+  "title": "Daily Routine 1",
+  "vocabulary": [
+    {
+      "chinese": "起床",
+      "pinyin": "qǐ chuáng",
+      "english": "to get out of bed"
+    },
+    {
+      "chinese": "上学",
+      "pinyin": "shàng xué",
+      "english": "to go to school"
+    },
+    {
+      "chinese": "上班",
+      "pinyin": "shàng bān",
+      "english": "to go to work"
+    },
+    {
+      "chinese": "早饭",
+      "pinyin": "zǎo fàn",
+      "english": "breakfast"
+    },
+    {
+      "chinese": "床",
+      "pinyin": "chuáng",
+      "english": "bed"
+    },
+    {
+      "chinese": "班",
+      "pinyin": "Bān; bān",
+      "english": "class"
+    },
+    {
+      "chinese": "从",
+      "pinyin": "Cóng; cóng; zòng",
+      "english": "from"
+    },
+    {
+      "chinese": "睡觉",
+      "pinyin": "shuì jiào",
+      "english": "to go to bed"
+    },
+    {
+      "chinese": "午饭",
+      "pinyin": "wǔ fàn",
+      "english": "lunch"
+    },
+    {
+      "chinese": "睡",
+      "pinyin": "shuì",
+      "english": "to sleep"
+    },
+    {
+      "chinese": "觉",
+      "pinyin": "jiào; jué",
+      "english": "a nap"
+    },
+    {
+      "chinese": "放学",
+      "pinyin": "fàng xué",
+      "english": "to finish school (for the day)"
+    },
+    {
+      "chinese": "下班",
+      "pinyin": "xià bān",
+      "english": "to finish work (for the day)"
+    },
+    {
+      "chinese": "回",
+      "pinyin": "huí; huí",
+      "english": "to return"
+    },
+    {
+      "chinese": "晚饭",
+      "pinyin": "wǎn fàn",
+      "english": "dinner"
+    },
+    {
+      "chinese": "放",
+      "pinyin": "fàng",
+      "english": "to put"
+    }
+  ],
+  "lessonNumber": null
+}

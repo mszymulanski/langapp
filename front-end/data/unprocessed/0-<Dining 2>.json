@@ -1,0 +1,111 @@
+{
+  "title": "Dining 2",
+  "vocabulary": [
+    {
+      "chinese": "杯",
+      "pinyin": "bēi",
+      "english": "GT: cup"
+    },
+    {
+      "chinese": "啤",
+      "pinyin": "pí",
+      "english": "GT: beer"
+    },
+    {
+      "chinese": "德",
+      "pinyin": "Dé; dé",
+      "english": "GT: Morality"
+    },
+    {
+      "chinese": "德国",
+      "pinyin": "Dé guó",
+      "english": "GT: Germany"
+    },
+    {
+      "chinese": "啤酒",
+      "pinyin": "pí jiǔ",
+      "english": "GT: beer"
+    },
+    {
+      "chinese": "果汁",
+      "pinyin": "guǒ zhī",
+      "english": "GT: fruit juice"
+    },
+    {
+      "chinese": "汁",
+      "pinyin": "zhī",
+      "english": "GT: juice"
+    },
+    {
+      "chinese": "香蕉",
+      "pinyin": "xiāng jiāo",
+      "english": "GT: banana"
+    },
+    {
+      "chinese": "蛋糕",
+      "pinyin": "dàn gāo",
+      "english": "GT: cake"
+    },
+    {
+      "chinese": "蕉",
+      "pinyin": "jiāo; qiáo",
+      "english": "GT: banana"
+    },
+    {
+      "chinese": "糕",
+      "pinyin": "gāo",
+      "english": "GT: cake"
+    },
+    {
+      "chinese": "碗",
+      "pinyin": "wǎn",
+      "english": "GT: bowl"
+    },
+    {
+      "chinese": "杯子",
+      "pinyin": "bēi zi",
+      "english": "GT: cup"
+    },
+    {
+      "chinese": "盘子",
+      "pinyin": "pán zi",
+      "english": "GT: plate"
+    },
+    {
+      "chinese": "盘",
+      "pinyin": "pán",
+      "english": "GT: plate"
+    },
+    {
+      "chinese": "筷子",
+      "pinyin": "kuài zi",
+      "english": "GT: chopsticks"
+    },
+    {
+      "chinese": "刀",
+      "pinyin": "Dāo; dāo",
+      "english": "GT: Knife"
+    },
+    {
+      "chinese": "叉",
+      "pinyin": "chā; chá; chǎ",
+      "english": "GT: cross"
+    },
+    {
+      "chinese": "筷",
+      "pinyin": "kuài",
+      "english": "GT: chopsticks"
+    },
+    {
+      "chinese": "勺子",
+      "pinyin": "sháo zi",
+      "english": "GT: Spoon"
+    },
+    {
+      "chinese": "勺",
+      "pinyin": "sháo",
+      "english": "GT: Spoon"
+    }
+  ],
+  "lessonNumber": null
+}

@@ -1,0 +1,11 @@
+{
+  "title":"Contact",
+  "lessonNumber":7,
+  "vocabulary":[
+    {"chinese": "的", "pinyin":"de", "english":"of"},
+    {"chinese": "多少", "pinyin":"duō shǎo", "english":"how many"},
+    {"chinese": "电话", "pinyin":"diàn huà", "english":"telephone"},
+    {"chinese": "号码", "pinyin":"hào mǎ", "english":"(telephone) number"},
+    {"chinese": "号", "pinyin":"hào", "english":"number"}
+  ]
+}

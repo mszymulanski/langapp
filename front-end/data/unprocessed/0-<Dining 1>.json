@@ -1,0 +1,96 @@
+{
+  "title": "Dining 1",
+  "vocabulary": [
+    {
+      "chinese": "海",
+      "pinyin": "Hǎi; hǎi",
+      "english": "ocean"
+    },
+    {
+      "chinese": "本",
+      "pinyin": "běn",
+      "english": "classifier for books and print media"
+    },
+    {
+      "chinese": "还",
+      "pinyin": "Huán; hái; huán",
+      "english": "also"
+    },
+    {
+      "chinese": "上海",
+      "pinyin": "Shàng hǎi",
+      "english": "Shanghai"
+    },
+    {
+      "chinese": "还是",
+      "pinyin": "hái shi",
+      "english": "or"
+    },
+    {
+      "chinese": "日本",
+      "pinyin": "Rì běn",
+      "english": "Japan"
+    },
+    {
+      "chinese": "肉",
+      "pinyin": "ròu",
+      "english": "meat"
+    },
+    {
+      "chinese": "米饭",
+      "pinyin": "mǐ fàn",
+      "english": "rice (cooked)"
+    },
+    {
+      "chinese": "面条",
+      "pinyin": "miàn tiáo",
+      "english": "noodles"
+    },
+    {
+      "chinese": "鸡肉",
+      "pinyin": "jī ròu",
+      "english": "chicken meat"
+    },
+    {
+      "chinese": "牛肉",
+      "pinyin": "niú ròu",
+      "english": "beef meat"
+    },
+    {
+      "chinese": "猪肉",
+      "pinyin": "zhū ròu",
+      "english": "pork meat"
+    },
+    {
+      "chinese": "羊肉",
+      "pinyin": "yáng ròu",
+      "english": "lamb meat"
+    },
+    {
+      "chinese": "饮料",
+      "pinyin": "yǐn liào",
+      "english": "drink"
+    },
+    {
+      "chinese": "猪",
+      "pinyin": "zhū",
+      "english": "pig"
+    },
+    {
+      "chinese": "羊",
+      "pinyin": "Yáng; yáng",
+      "english": "sheep"
+    },
+    {
+      "chinese": "饮",
+      "pinyin": "yǐn; yìn",
+      "english": "to drink"
+    },
+    {
+      "chinese": "料",
+      "pinyin": "liào",
+      "english": "material"
+    }
+  ],
+  "lessonNumber": null
+}

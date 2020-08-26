@@ -1,0 +1,81 @@
+{
+  "title": "Shopping 4",
+  "vocabulary": [
+    {
+      "chinese": "折",
+      "pinyin": "shé; zhē; zhé",
+      "english": "GT: fold"
+    },
+    {
+      "chinese": "角",
+      "pinyin": "Jué; jiǎo; jué",
+      "english": "GT: angle"
+    },
+    {
+      "chinese": "花",
+      "pinyin": "Huā; huā",
+      "english": "GT: flower"
+    },
+    {
+      "chinese": "打折",
+      "pinyin": "dǎ zhé",
+      "english": "GT: Discount"
+    },
+    {
+      "chinese": "旧",
+      "pinyin": "jiù",
+      "english": "GT: old"
+    },
+    {
+      "chinese": "皮",
+      "pinyin": "Pí; pí",
+      "english": "GT: skin"
+    },
+    {
+      "chinese": "换",
+      "pinyin": "huàn",
+      "english": "GT: change"
+    },
+    {
+      "chinese": "皮鞋",
+      "pinyin": "pí xié",
+      "english": "GT: leather shoes"
+    },
+    {
+      "chinese": "经过",
+      "pinyin": "jīng guò",
+      "english": "GT: through"
+    },
+    {
+      "chinese": "退货",
+      "pinyin": "tuì huò",
+      "english": "GT: Returns"
+    },
+    {
+      "chinese": "退款",
+      "pinyin": "tuì kuǎn",
+      "english": "GT: Refund"
+    },
+    {
+      "chinese": "退",
+      "pinyin": "tuì",
+      "english": "GT: Retreat"
+    },
+    {
+      "chinese": "货",
+      "pinyin": "huò",
+      "english": "GT: goods"
+    },
+    {
+      "chinese": "款",
+      "pinyin": "kuǎn",
+      "english": "GT: paragraph"
+    },
+    {
+      "chinese": "袋子",
+      "pinyin": "dài zi",
+      "english": "GT: bag"
+    }
+  ],
+  "lessonNumber": null
+}

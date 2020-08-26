@@ -1,0 +1,116 @@
+{
+  "title": "Sports 2",
+  "vocabulary": [
+    {
+      "chinese": "赛",
+      "pinyin": "sài",
+      "english": "GT: Competition"
+    },
+    {
+      "chinese": "练",
+      "pinyin": "liàn",
+      "english": "GT: practice"
+    },
+    {
+      "chinese": "练习",
+      "pinyin": "liàn xí",
+      "english": "GT: Exercise"
+    },
+    {
+      "chinese": "比赛",
+      "pinyin": "bǐ sài",
+      "english": "GT: game"
+    },
+    {
+      "chinese": "好在",
+      "pinyin": "hǎo zài",
+      "english": "GT: Fortunately"
+    },
+    {
+      "chinese": "乒乓球",
+      "pinyin": "pīng pāng qiú",
+      "english": "GT: pingpong"
+    },
+    {
+      "chinese": "乒",
+      "pinyin": "pīng",
+      "english": "GT: Table tennis"
+    },
+    {
+      "chinese": "乓",
+      "pinyin": "pāng",
+      "english": "GT: Bang"
+    },
+    {
+      "chinese": "参加",
+      "pinyin": "cān jiā",
+      "english": "GT: participate"
+    },
+    {
+      "chinese": "第",
+      "pinyin": "dì",
+      "english": "GT: The first"
+    },
+    {
+      "chinese": "参",
+      "pinyin": "cān; shēn",
+      "english": "GT: Ginseng"
+    },
+    {
+      "chinese": "网球",
+      "pinyin": "wǎng qiú",
+      "english": "GT: tennis"
+    },
+    {
+      "chinese": "排球",
+      "pinyin": "pái qiú",
+      "english": "GT: volleyball"
+    },
+    {
+      "chinese": "加油",
+      "pinyin": "jiā yóu",
+      "english": "GT: Refuel"
+    },
+    {
+      "chinese": "排",
+      "pinyin": "pái",
+      "english": "GT: row"
+    },
+    {
+      "chinese": "油",
+      "pinyin": "yóu",
+      "english": "GT: oil"
+    },
+    {
+      "chinese": "输",
+      "pinyin": "shū",
+      "english": "GT: lose"
+    },
+    {
+      "chinese": "赢",
+      "pinyin": "yíng",
+      "english": "GT: win"
+    },
+    {
+      "chinese": "失望",
+      "pinyin": "shī wàng",
+      "english": "GT: Disappointed"
+    },
+    {
+      "chinese": "信心",
+      "pinyin": "xìn xīn",
+      "english": "GT: confidence"
+    },
+    {
+      "chinese": "失",
+      "pinyin": "shī",
+      "english": "GT: Lose"
+    },
+    {
+      "chinese": "心",
+      "pinyin": "xīn",
+      "english": "GT: heart"
+    }
+  ],
+  "lessonNumber": null
+}

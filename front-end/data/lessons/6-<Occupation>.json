@@ -1,0 +1,17 @@
+{
+  "title":"Occupation",
+  "lessonNumber":6,
+  "vocabulary":[
+    {"chinese": "他", "pinyin":"tā", "english":"he"},
+    {"chinese": "她", "pinyin":"tā", "english":"she"},
+    {"chinese": "我们", "pinyin":"wǒ men", "english":"us"},
+    {"chinese": "你们", "pinyin":"nǐ men", "english":"you (plural)"},
+    {"chinese": "他们", "pinyin":"tā men", "english":"them (males)"},
+    {"chinese": "她们", "pinyin":"tā men", "english":"them (females)"},
+    {"chinese": "是", "pinyin":"shì", "english":"to be"},
+    {"chinese": "吗", "pinyin":"ma", "english":"question particle for 'yes-no' questions"},
+    {"chinese": "老师", "pinyin":"lǎo shī", "english":"teacher"},
+    {"chinese": "学生", "pinyin":"xué sheng", "english":"student"},
+    {"chinese": "医生", "pinyin":"yī shēng", "english":"doctor"}
+  ]
+}

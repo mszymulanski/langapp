@@ -1,0 +1,96 @@
+{
+  "title": "Restaurant",
+  "vocabulary": [
+    {
+      "chinese": "位",
+      "pinyin": "wèi",
+      "english": "classifier for people"
+    },
+    {
+      "chinese": "等",
+      "pinyin": "děng",
+      "english": "to wait for"
+    },
+    {
+      "chinese": "一下",
+      "pinyin": "yī xià",
+      "english": "a bit"
+    },
+    {
+      "chinese": "进",
+      "pinyin": "jìn",
+      "english": "enter"
+    },
+    {
+      "chinese": "坐",
+      "pinyin": "Zuò; zuò",
+      "english": "to sit"
+    },
+    {
+      "chinese": "菜单",
+      "pinyin": "cài dān",
+      "english": "menu"
+    },
+    {
+      "chinese": "英文",
+      "pinyin": "Yīng wén",
+      "english": "English (language)"
+    },
+    {
+      "chinese": "菜",
+      "pinyin": "cài",
+      "english": "dish (type of food)"
+    },
+    {
+      "chinese": "单",
+      "pinyin": "Shàn; dān",
+      "english": "bill"
+    },
+    {
+      "chinese": "文",
+      "pinyin": "Wén; wén",
+      "english": "language"
+    },
+    {
+      "chinese": "服务员",
+      "pinyin": "fú wù yuán",
+      "english": "waiter"
+    },
+    {
+      "chinese": "点菜",
+      "pinyin": "diǎn cài",
+      "english": "to order dishes (in a restaurant)"
+    },
+    {
+      "chinese": "买单",
+      "pinyin": "mǎi dān",
+      "english": "to pay the restaurant bill"
+    },
+    {
+      "chinese": "订位",
+      "pinyin": "dìng wèi",
+      "english": "reservation"
+    },
+    {
+      "chinese": "服",
+      "pinyin": "fú; fù",
+      "english": "clothes"
+    },
+    {
+      "chinese": "务",
+      "pinyin": "wù",
+      "english": "business"
+    },
+    {
+      "chinese": "员",
+      "pinyin": "yuán",
+      "english": "person"
+    },
+    {
+      "chinese": "订",
+      "pinyin": "dìng",
+      "english": "to order"
+    }
+  ],
+  "lessonNumber": null
+}

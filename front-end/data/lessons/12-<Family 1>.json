@@ -1,0 +1,19 @@
+{
+  "title":"Family 1",
+  "lessonNumber":12,
+  "vocabulary":[
+    {"chinese": "个", "pinyin":"gè", "english":"individual; classifier for people or objects "},
+    {"chinese": "这", "pinyin":"zhè", "english":"this"},
+    {"chinese": "那", "pinyin":"nà", "english":"that"},
+    {"chinese": "有", "pinyin":"yǒu", "english":"to have"},
+    {"chinese": "谁", "pinyin":"shéi", "english":"who"},
+    {"chinese": "和", "pinyin":"hé", "english":"and"},
+    {"chinese": "家人", "pinyin":"jiā rén", "english":"family"},
+    {"chinese": "妈妈", "pinyin":"mā ma", "english":"mom"},
+    {"chinese": "爸爸", "pinyin":"bà ba", "english":"dad"},
+    {"chinese": "哥哥", "pinyin":"gē ge", "english":"older brother"},
+    {"chinese": "弟弟", "pinyin":"dì di", "english":"younger brother"},
+    {"chinese": "姐姐", "pinyin":"jiě jie", "english":"older sister"},
+    {"chinese": "妹妹", "pinyin":"mèi mei", "english":"younger sister"}
+  ]
+}
