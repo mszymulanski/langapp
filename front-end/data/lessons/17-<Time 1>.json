@@ -2,18 +2,28 @@
   "title": "Time 1",
   "vocabulary": [
     {
-      "chinese": "年",
-      "pinyin": "Nián; nián; nián",
-      "english": "year"
+      "chinese": "天",
+      "pinyin": "tiān",
+      "english": "day"
+    },
+    {
+      "chinese": "星期",
+      "pinyin": "xīng qī",
+      "english": "week"
     },
     {
       "chinese": "月",
       "pinyin": "yuè",
-      "english": "moon"
+      "english": "month; moon"
+    },
+    {
+      "chinese": "年",
+      "pinyin": "nián",
+      "english": "year"
     },
     {
       "chinese": "几",
-      "pinyin": "jī; jī; jǐ",
+      "pinyin": "jǐ",
       "english": "how much"
     },
     {
@@ -22,29 +32,64 @@
       "english": "zero"
     },
     {
-      "chinese": "星期",
-      "pinyin": "xīng qī",
-      "english": "week"
+      "chinese": "一月",
+      "pinyin": "yī yuè",
+      "english": "January"
+    },
+    {
+      "chinese": "二月",
+      "pinyin": "èr yuè",
+      "english": "February"
+    },
+    {
+      "chinese": "三月",
+      "pinyin": "sān yuè",
+      "english": "March"
+    },
+    {
+      "chinese": "星期一",
+      "pinyin": "xīng qī yī",
+      "english": "Monday"
+    },
+    {
+      "chinese": "星期二",
+      "pinyin": "xīng qī èr",
+      "english": "Tuesday"
+    },
+    {
+      "chinese": "星期三",
+      "pinyin": "xīng qī sān",
+      "english": "Wednesday"
+    },
+    {
+      "chinese": "星期四",
+      "pinyin": "xīng qī sì",
+      "english": "Thursday"
+    },
+    {
+      "chinese": "星期五",
+      "pinyin": "xīng qī wǔ",
+      "english": "Friday"
+    },
+    {
+      "chinese": "星期六",
+      "pinyin": "xīng qī liù",
+      "english": "Saturday"
+    },
+    {
+      "chinese": "星期天",
+      "pinyin": "xīng qī tiān",
+      "english": "Sunday"
+    },
+    {
+      "chinese": "星期日",
+      "pinyin": "xīng qī rì",
+      "english": "Sunday"
     },
     {
       "chinese": "明天",
       "pinyin": "míng tiān",
       "english": "tomorrow"
-    },
-    {
-      "chinese": "日",
-      "pinyin": "Rì; rì",
-      "english": "sun"
-    },
-    {
-      "chinese": "星",
-      "pinyin": "xīng",
-      "english": "star"
-    },
-    {
-      "chinese": "期",
-      "pinyin": "qī",
-      "english": "period of time"
     },
     {
       "chinese": "点",
@@ -60,11 +105,6 @@
       "chinese": "半",
       "pinyin": "bàn",
       "english": "half"
-    },
-    {
-      "chinese": "现",
-      "pinyin": "xiàn",
-      "english": "to appear"
     }
   ],
   "lessonNumber": null

@@ -2,9 +2,9 @@
   "title": "Family 2",
   "vocabulary": [
     {
-      "chinese": "孩子",
-      "pinyin": "hái zi",
-      "english": "child"
+      "chinese": "岁",
+      "pinyin": "suì",
+      "english": "years of age"
     },
     {
       "chinese": "两",
@@ -12,14 +12,14 @@
       "english": "two"
     },
     {
-      "chinese": "孩",
-      "pinyin": "hái",
+      "chinese": "孩子",
+      "pinyin": "hái zi",
       "english": "child"
     },
     {
-      "chinese": "子",
-      "pinyin": "zǐ; zi",
-      "english": "son"
+      "chinese": "女",
+      "pinyin": "nǚ",
+      "english": "female"
     },
     {
       "chinese": "女儿",
@@ -32,18 +32,8 @@
       "english": "son"
     },
     {
-      "chinese": "岁",
-      "pinyin": "suì",
-      "english": "years of age"
-    },
-    {
-      "chinese": "女",
-      "pinyin": "nǚ",
-      "english": "female"
-    },
-    {
       "chinese": "妻子",
-      "pinyin": "qī zǐ; qī zi",
+      "pinyin": "qī zi",
       "english": "wife"
     },
     {
@@ -52,29 +42,14 @@
       "english": "husband"
     },
     {
-      "chinese": "妻",
-      "pinyin": "qī; qì",
-      "english": "wife"
-    },
-    {
-      "chinese": "丈",
-      "pinyin": "zhàng",
-      "english": "husband"
-    },
-    {
-      "chinese": "夫",
-      "pinyin": "fū; fú",
-      "english": "husband"
+      "chinese": "它",
+      "pinyin": "tā",
+      "english": "it"
     },
     {
       "chinese": "猫",
       "pinyin": "māo",
       "english": "cat"
-    },
-    {
-      "chinese": "它",
-      "pinyin": "tā",
-      "english": "it"
     },
     {
       "chinese": "狗",

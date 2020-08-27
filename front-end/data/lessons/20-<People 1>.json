@@ -7,44 +7,19 @@
       "english": "pretty"
     },
     {
-      "chinese": "漂",
-      "pinyin": "piāo; piǎo; piào",
-      "english": "to float"
+      "chinese": "可爱",
+      "pinyin": "kě ài",
+      "english": "cute"
     },
     {
-      "chinese": "亮",
-      "pinyin": "liàng",
-      "english": "bright"
-    },
-    {
-      "chinese": "朋友",
-      "pinyin": "péng you",
-      "english": "friend"
-    },
-    {
-      "chinese": "男",
-      "pinyin": "nán",
-      "english": "male"
+      "chinese": "高",
+      "pinyin": "gāo",
+      "english": "tall"
     },
     {
       "chinese": "矮",
       "pinyin": "ǎi",
-      "english": "short (in height"
-    },
-    {
-      "chinese": "朋",
-      "pinyin": "péng",
-      "english": "friend"
-    },
-    {
-      "chinese": "友",
-      "pinyin": "yǒu",
-      "english": "friend"
-    },
-    {
-      "chinese": "可爱",
-      "pinyin": "kě ài",
-      "english": "cute"
+      "english": "short (in height or length)"
     },
     {
       "chinese": "非常",
@@ -52,19 +27,24 @@
       "english": "very"
     },
     {
-      "chinese": "可",
-      "pinyin": "kě; kè",
-      "english": "can"
+      "chinese": "男",
+      "pinyin": "nán",
+      "english": "male"
     },
     {
-      "chinese": "非",
-      "pinyin": "Fēi; fēi",
-      "english": "to not be"
+      "chinese": "朋友",
+      "pinyin": "péng you",
+      "english": "friend"
     },
     {
-      "chinese": "常",
-      "pinyin": "Cháng; cháng",
-      "english": "always"
+      "chinese": "男朋友",
+      "pinyin": "nán péng you",
+      "english": "boyfriend"
+    },
+    {
+      "chinese": "女朋友",
+      "pinyin": "nǚ péng you",
+      "english": "girlfriend"
     }
   ],
   "lessonNumber": 20

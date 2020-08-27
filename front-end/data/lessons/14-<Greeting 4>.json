@@ -17,16 +17,6 @@
       "english": "a moment"
     },
     {
-      "chinese": "会",
-      "pinyin": "huì; kuài",
-      "english": "can"
-    },
-    {
-      "chinese": "安",
-      "pinyin": "Ān; ān",
-      "english": "quiet"
-    },
-    {
       "chinese": "最近",
       "pinyin": "zuì jìn",
       "english": "recently"
@@ -40,27 +30,7 @@
       "chinese": "不错",
       "pinyin": "bù cuò",
       "english": "not bad"
-    },
-    {
-      "chinese": "最",
-      "pinyin": "zuì",
-      "english": "most"
-    },
-    {
-      "chinese": "近",
-      "pinyin": "jìn",
-      "english": "near"
-    },
-    {
-      "chinese": "久",
-      "pinyin": "jiǔ",
-      "english": "long time"
-    },
-    {
-      "chinese": "错",
-      "pinyin": "Cuò; cuò",
-      "english": "mistake"
     }
   ],
-  "lessonNumber": null
+  "lessonNumber": 14
 }

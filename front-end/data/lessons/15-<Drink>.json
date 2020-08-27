@@ -3,7 +3,7 @@
   "vocabulary": [
     {
       "chinese": "要",
-      "pinyin": "yāo; yào",
+      "pinyin": "yào",
       "english": "to want"
     },
     {
@@ -25,27 +25,7 @@
       "chinese": "咖啡",
       "pinyin": "kā fēi",
       "english": "coffee"
-    },
-    {
-      "chinese": "牛",
-      "pinyin": "Niú; niú",
-      "english": "ox"
-    },
-    {
-      "chinese": "奶",
-      "pinyin": "nǎi; nǎi",
-      "english": "milk"
-    },
-    {
-      "chinese": "咖",
-      "pinyin": "kā",
-      "english": ""
-    },
-    {
-      "chinese": "啡",
-      "pinyin": "fēi",
-      "english": ""
     }
   ],
-  "lessonNumber": null
+  "lessonNumber": 15
 }

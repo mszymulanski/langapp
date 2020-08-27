@@ -2,19 +2,19 @@
   "title": "Telephone",
   "vocabulary": [
     {
+      "chinese": "一点儿",
+      "pinyin": "yī diǎnr",
+      "english": "a little"
+    },
+    {
       "chinese": "喂",
-      "pinyin": "wéi; wèi; wèi",
+      "pinyin": "wéi;wèi",
       "english": "hey"
     },
     {
       "chinese": "慢",
       "pinyin": "màn",
       "english": "slow"
-    },
-    {
-      "chinese": "一点儿",
-      "pinyin": "yī diǎnr",
-      "english": "a little"
     },
     {
       "chinese": "快",
@@ -30,11 +30,6 @@
       "chinese": "明白",
       "pinyin": "míng bai",
       "english": "to understand"
-    },
-    {
-      "chinese": "白",
-      "pinyin": "Bái; bái",
-      "english": "white"
     }
   ],
   "lessonNumber": 19

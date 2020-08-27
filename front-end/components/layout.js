@@ -15,7 +15,7 @@ export default function Layout({ children, home, allLessonsNames }) {
               <li>
                 <Link href={`/lessons/[id]`} as={`/lessons/${id}`}>
                   <a>
-                    {title}
+                    {`${id} ${title}`}
                   </a>
                 </Link>
               </li>

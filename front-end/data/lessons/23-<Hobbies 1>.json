@@ -17,16 +17,6 @@
       "english": "book"
     },
     {
-      "chinese": "喜",
-      "pinyin": "xǐ",
-      "english": "to like"
-    },
-    {
-      "chinese": "欢",
-      "pinyin": "huān; huān; huān",
-      "english": "joyous"
-    },
-    {
       "chinese": "玩",
       "pinyin": "wán",
       "english": "to play"
@@ -42,23 +32,8 @@
       "english": "game"
     },
     {
-      "chinese": "脑",
-      "pinyin": "nǎo",
-      "english": "brain"
-    },
-    {
-      "chinese": "游",
-      "pinyin": "Yóu; yóu; yóu",
-      "english": "swimt"
-    },
-    {
-      "chinese": "戏",
-      "pinyin": "xì",
-      "english": "trick"
-    },
-    {
       "chinese": "听",
-      "pinyin": "yǐn; tīng; tìng",
+      "pinyin": "tīng",
       "english": "to listen"
     },
     {
@@ -72,16 +47,6 @@
       "english": "song"
     },
     {
-      "chinese": "音",
-      "pinyin": "yīn",
-      "english": "sound"
-    },
-    {
-      "chinese": "乐",
-      "pinyin": "Lè; Yuè; lè; yuè",
-      "english": "happy"
-    },
-    {
       "chinese": "跳舞",
       "pinyin": "tiào wǔ",
       "english": "to dance"
@@ -90,17 +55,7 @@
       "chinese": "唱",
       "pinyin": "chàng",
       "english": "to sing"
-    },
-    {
-      "chinese": "跳",
-      "pinyin": "tiào",
-      "english": "to jump"
-    },
-    {
-      "chinese": "舞",
-      "pinyin": "wǔ",
-      "english": "to dance"
     }
   ],
-  "lessonNumber": null
+  "lessonNumber": 23
 }

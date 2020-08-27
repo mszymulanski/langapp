@@ -2,6 +2,16 @@
   "title": "Daily Routine 1",
   "vocabulary": [
     {
+      "chinese": "回",
+      "pinyin": "huí; huí",
+      "english": "to return"
+    },
+    {
+      "chinese": "睡觉",
+      "pinyin": "shuì jiào",
+      "english": "to go to bed"
+    },
+    {
       "chinese": "起床",
       "pinyin": "qǐ chuáng",
       "english": "to get out of bed"
@@ -12,14 +22,19 @@
       "english": "to go to school"
     },
     {
+      "chinese": "放学",
+      "pinyin": "fàng xué",
+      "english": "to finish school (for the day)"
+    },
+    {
       "chinese": "上班",
       "pinyin": "shàng bān",
       "english": "to go to work"
     },
     {
-      "chinese": "早饭",
-      "pinyin": "zǎo fàn",
-      "english": "breakfast"
+      "chinese": "下班",
+      "pinyin": "xià bān",
+      "english": "to finish work (for the day)"
     },
     {
       "chinese": "床",
@@ -33,13 +48,18 @@
     },
     {
       "chinese": "从",
-      "pinyin": "Cóng; cóng; zòng",
+      "pinyin": "cóng",
       "english": "from"
     },
     {
-      "chinese": "睡觉",
-      "pinyin": "shuì jiào",
-      "english": "to go to bed"
+      "chinese": "到",
+      "pinyin": "dào",
+      "english": "to"
+    },
+    {
+      "chinese": "早饭",
+      "pinyin": "zǎo fàn",
+      "english": "breakfast"
     },
     {
       "chinese": "午饭",
@@ -47,40 +67,10 @@
       "english": "lunch"
     },
     {
-      "chinese": "睡",
-      "pinyin": "shuì",
-      "english": "to sleep"
-    },
-    {
-      "chinese": "觉",
-      "pinyin": "jiào; jué",
-      "english": "a nap"
-    },
-    {
-      "chinese": "放学",
-      "pinyin": "fàng xué",
-      "english": "to finish school (for the day)"
-    },
-    {
-      "chinese": "下班",
-      "pinyin": "xià bān",
-      "english": "to finish work (for the day)"
-    },
-    {
-      "chinese": "回",
-      "pinyin": "huí; huí",
-      "english": "to return"
-    },
-    {
       "chinese": "晚饭",
       "pinyin": "wǎn fàn",
       "english": "dinner"
-    },
-    {
-      "chinese": "放",
-      "pinyin": "fàng",
-      "english": "to put"
     }
   ],
-  "lessonNumber": null
+  "lessonNumber": 24
 }

@@ -2,6 +2,11 @@
   "title": "Location 3",
   "vocabulary": [
     {
+      "chinese": "怎么",
+      "pinyin": "zěn me",
+      "english": "how?"
+    },
+    {
       "chinese": "旁边",
       "pinyin": "páng biān",
       "english": "next to"
@@ -15,26 +20,6 @@
       "chinese": "右边",
       "pinyin": "yòu bian",
       "english": "to the right of"
-    },
-    {
-      "chinese": "旁",
-      "pinyin": "páng",
-      "english": "beside"
-    },
-    {
-      "chinese": "左",
-      "pinyin": "Zuǒ; zuǒ",
-      "english": "left"
-    },
-    {
-      "chinese": "右",
-      "pinyin": "yòu",
-      "english": "right"
-    },
-    {
-      "chinese": "边",
-      "pinyin": "biān; bian",
-      "english": "side"
     },
     {
       "chinese": "前面",
@@ -52,24 +37,9 @@
       "english": "school"
     },
     {
-      "chinese": "前",
-      "pinyin": "qián",
-      "english": "front"
-    },
-    {
-      "chinese": "后",
-      "pinyin": "Hòu; hòu; hòu",
-      "english": "back"
-    },
-    {
-      "chinese": "校",
-      "pinyin": "jiào; xiào",
-      "english": "to check"
-    },
-    {
-      "chinese": "走",
-      "pinyin": "zǒu",
-      "english": "to walk"
+      "chinese": "往",
+      "pinyin": "wǎng",
+      "english": "to go (in a direction)"
     },
     {
       "chinese": "到",
@@ -77,18 +47,18 @@
       "english": "to arrive"
     },
     {
+      "chinese": "走",
+      "pinyin": "zǒu",
+      "english": "to walk"
+    },
+      {
       "chinese": "路",
-      "pinyin": "Lù; lù",
+      "pinyin": "lù",
       "english": "road"
     },
-    {
-      "chinese": "怎么",
-      "pinyin": "zěn me",
-      "english": "how?"
-    },
-    {
+      {
       "chinese": "哪里",
-      "pinyin": "nǎ lǐ; nǎ lǐ",
+      "pinyin": "nǎ lǐ",
       "english": "where?"
     },
     {
@@ -98,19 +68,9 @@
     },
     {
       "chinese": "那里",
-      "pinyin": "nà li; nà li",
+      "pinyin": "nà li",
       "english": "there"
-    },
-    {
-      "chinese": "往",
-      "pinyin": "wǎng",
-      "english": "to go (in a direction)"
-    },
-    {
-      "chinese": "里",
-      "pinyin": "lǐ; Lǐ; lǐ",
-      "english": "inside"
     }
   ],
-  "lessonNumber": null
+  "lessonNumber": 22
 }

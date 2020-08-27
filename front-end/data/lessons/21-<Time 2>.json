@@ -2,14 +2,34 @@
   "title": "Time 2",
   "vocabulary": [
     {
-      "chinese": "上午",
-      "pinyin": "shàng wǔ",
-      "english": "morning"
+      "chinese": "了",
+      "pinyin": "le; liǎo; liǎo",
+      "english": "(modal particle intensifying preceding clause)"
+    },
+    {
+      "chinese": "去",
+      "pinyin": "qù",
+      "english": "to go"
+    },
+    {
+      "chinese": "每",
+      "pinyin": "měi",
+      "english": "each"
     },
     {
       "chinese": "分",
       "pinyin": "fēn; fèn",
       "english": "minute"
+    },
+    {
+      "chinese": "上午",
+      "pinyin": "shàng wǔ",
+      "english": "(late) morning"
+    },
+    {
+      "chinese": "中午",
+      "pinyin": "zhōng wǔ",
+      "english": "noon"
     },
     {
       "chinese": "下午",
@@ -22,44 +42,9 @@
       "english": "evening"
     },
     {
-      "chinese": "午",
-      "pinyin": "wǔ",
-      "english": "noon"
-    },
-    {
-      "chinese": "晚",
-      "pinyin": "wǎn",
-      "english": "evening"
-    },
-    {
-      "chinese": "下",
-      "pinyin": "xià",
-      "english": "down"
-    },
-    {
-      "chinese": "每",
-      "pinyin": "měi",
-      "english": "each"
-    },
-    {
-      "chinese": "中午",
-      "pinyin": "zhōng wǔ",
-      "english": "noon"
-    },
-    {
       "chinese": "周末",
       "pinyin": "zhōu mò",
       "english": "weekend"
-    },
-    {
-      "chinese": "周",
-      "pinyin": "Zhōu; zhōu; zhōu",
-      "english": "to circle"
-    },
-    {
-      "chinese": "末",
-      "pinyin": "mò",
-      "english": "tip"
     },
     {
       "chinese": "昨天",
@@ -67,24 +52,9 @@
       "english": "yesterday"
     },
     {
-      "chinese": "了",
-      "pinyin": "le; liǎo; liǎo",
-      "english": "(modal particle intensifying preceding clause)"
-    },
-    {
       "chinese": "做",
       "pinyin": "zuò",
-      "english": "to do"
-    },
-    {
-      "chinese": "昨",
-      "pinyin": "zuó",
-      "english": "yesterday"
-    },
-    {
-      "chinese": "今年",
-      "pinyin": "jīn nián",
-      "english": "this year"
+      "english": "to do; to make; to prepare; to cook"
     },
     {
       "chinese": "去年",
@@ -92,15 +62,15 @@
       "english": "last year"
     },
     {
+      "chinese": "今年",
+      "pinyin": "jīn nián",
+      "english": "this year"
+    },
+    {
       "chinese": "明年",
       "pinyin": "míng nián",
       "english": "next year"
-    },
-    {
-      "chinese": "去",
-      "pinyin": "qù",
-      "english": "to go"
     }
   ],
-  "lessonNumber": null
+  "lessonNumber": 21
 }
