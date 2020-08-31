@@ -1,28 +1,34 @@
+/**
+ * This script parses a CSV file with lessons and saves it to JSON files.
+ * Each row in the CVS corresponds to only one Duolingo lesson. A few rows
+ * make up a lesson.
+ *
+ * Why this script? I have a spreadsheet with all of the Chinese words from
+ * Duolingo. To avoid convoluted logic or manual data entry of that data, this
+ * script creates a JSON fiel per one duolingo lesson from the spreadsheet.
+ * Next, the JSON files can be used to generate NextJS pages.
+ */
 const csvParser = require('csv-parser')
 const fs = require('fs')
 const path = require('path')
 
 const destinationDirectory = path.join(process.cwd(), 'data', 'unprocessed')
 const filePath = path.join(process.cwd(), 'words.csv')
-console.log('filePath: ', filePath)
-// const allWords = fs.readFileSync(filePath, 'utf8')
+
 let currentLesson = {
   title: null,
   vocabulary: [],
 }
 
-let count = 0
 fs.createReadStream(filePath)
   .pipe(csvParser())
   .on('data', (row) => {
-    // console.log(row)
     // If row doesn't match the current lesson save the current lesson
     // And start a new lesson
     if (row.lesson != currentLesson.title && currentLesson.title != null) {
       const currentLessonDestination = path.join(
         destinationDirectory, `0-<${currentLesson.title}>.json`
       )
-      console.log('should write: ', currentLessonDestination)
 
       fs.writeFileSync(
         currentLessonDestination,
@@ -44,10 +50,7 @@ fs.createReadStream(filePath)
         english: row.english,
       }
     )
-    // console.log(currentLesson)
-    // if (count == 15) process.exit()
-    // else count++
   })
   .on('end', () => {
-    console.log('The End')
+    console.info('The End')
   })
