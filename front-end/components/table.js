@@ -3,14 +3,14 @@ export default function Table (vocabulary) {
     <table>
       <thead>
         <tr>
-          <th>Word</th>
-          <th>Pinyin</th>
-          <th>English</th>
+          <th scope="col">Word</th>
+          <th scope="col">Pinyin</th>
+          <th scope="col">English</th>
         </tr>
       </thead>
       <tbody>
         {vocabulary.map((v) => (
-          <tr key={`${v.chinese}-${v.pinyin}`}>
+          <tr className="table-active" key={`${v.chinese}-${v.pinyin}`}>
             <td key={v.chinese}>{v.chinese}</td>
             <td key={v.pinyin}>{v.pinyin}</td>
             <td key={v.english}>{v.english}</td>

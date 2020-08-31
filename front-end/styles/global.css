@@ -2,33 +2,15 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
-    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  line-height: 1.6;
-  font-size: 18px;
 }
 
 * {
   box-sizing: border-box;
 }
 
-a {
-  color: #0e0e0f;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-img {
-  max-width: 100%;
-  display: block;
-}
-
 /* Split the screen in half */
 .split {
-  height: 90%;
+  height: 100%;
   top: 0;
   position: fixed;
   overflow-x: hidden;
@@ -38,13 +20,11 @@ img {
 /* Control the left side */
 .left {
   left: 0;
-  background-color: rgb(114, 113, 113);
   width: 20%;
 }
 
 /* Control the right side */
 .right {
   right: 0;
-  background-color: rgb(218, 211, 211);
   width: 80%;
 }

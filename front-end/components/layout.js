@@ -1,10 +1,18 @@
 import Link from 'next/link'
+import Head from 'next/head'
+
+// import 'bootstrap/dist/css/bootstrap.min.css'
 
 export default function Layout({ children, home, allLessonsNames }) {
   return (
     <div>
-      <nav className="left split">
-        <ul>
+      <Head>
+        <link rel="stylesheet" href="https://bootswatch.com/4/slate/bootstrap.min.css" />
+        <meta httpEquiv="x-ua-compatible" content="ie=edge" /> {/* Tell IE to use latest rendering engine */}
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /> {/* Set the page width to the device width  */}
+      </Head>
+      <nav className="left split navbar navbar-expand-lg navbar-dark bg-primary">
+        <ul className="navbar-nav mr-auto">
           {allLessonsNames.map((lessonFileName) => {
             // Here we should parse the lesson id and lesson title from the file name
             // and use them to create href/as and display lesson title to the user
@@ -12,7 +20,7 @@ export default function Layout({ children, home, allLessonsNames }) {
             const title = lessonFileName.match(/<[a-zA-Z0-9 ]*>/)[0].replace('<', '').replace('>', '')
 
             return (
-              <li>
+              <li className="nav-item" key={`lesson-${id}`}>
                 <Link href={`/lessons/[id]`} as={`/lessons/${id}`}>
                   <a>
                     {`${id} ${title}`}
@@ -24,7 +32,7 @@ export default function Layout({ children, home, allLessonsNames }) {
           {home ? (<></>) : (<li className="link-home-page"><Link href="/"><a>Go Home</a></Link></li>)}
         </ul>
       </nav>
-      <main className="right split">{children}</main>
+      <main role="main" className="right split jumbotron">{children}</main>
       
     </div>
   )
