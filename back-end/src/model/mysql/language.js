@@ -1,9 +1,10 @@
 module.exports = (sequelize, DataTypes) => {
   const language = sequelize.define('language', {
     code: DataTypes.STRING,
-    name: DataType.STRING,
+    name: DataTypes.STRING,
   }, {
     freezeTableName: true,
+    timestamps: false,
   })
 
   language.associate = function(models) {
