@@ -39,7 +39,7 @@ export default function Home ({ allLessonsNames }) {
           <p><span>李华是老师.</span> <span>Li Hua is a teacher.</span></p>
         </section>
         <section>
-          <h2>Time and Date</h2>
+          <h2>Time and Date Words</h2>
           <table>
             <thead>
               <tr>
@@ -128,6 +128,45 @@ export default function Home ({ allLessonsNames }) {
                 <td key="明年"></td>
                 <td key="míngnián">míng nián</td>
                 <td key="next year">next year</td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+        <section>
+          <h2>Position Words</h2>
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">Chinese</th>
+                <th scope="col">Pinyin</th>
+                <th scope="col">English</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr className="table-active" key="旁边-pángbiān">
+                <td key="旁边">旁边</td>
+                <td key="pángbiān">páng biān</td>
+                <td key="next to">next to</td>
+              </tr>
+              <tr className="table-active" key="左边-zuǒbian">
+                <td key="左边">左边</td>
+                <td key="zuǒbian">zuǒ bian</td>
+                <td key="to the left">to the left</td>
+              </tr>
+              <tr className="table-active" key="右边-yòubian">
+                <td key="右边">右边</td>
+                <td key="yòubian">yòu bian</td>
+                <td key="to the right">to the right</td>
+              </tr>
+              <tr className="table-active" key="前面-qiánmiàn">
+                <td key="前面">前面</td>
+                <td key="qiánmiàn">qián miàn</td>
+                <td key="in front">in front; ahead</td>
+              </tr>
+              <tr className="table-active" key="后面-hòumian">
+                <td key="后面">后面</td>
+                <td key="hòumian">hòu mian</td>
+                <td key="behind">behind</td>
               </tr>
             </tbody>
           </table>
