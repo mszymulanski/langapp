@@ -1,0 +1,28 @@
+{
+  "title": "Payment",
+  "vocabulary": [
+    { "chinese": "钱", "pinyin": "Qián; qián", "english": "money" },
+    { "chinese": "买", "pinyin": "mǎi", "english": "to buy" },
+    { "chinese": "只", "pinyin": "zhǐ; zhǐ; zhī", "english": "only" },
+    { "chinese": "块", "pinyin": "kuài", "english": "a piece of (cloth, cake, soap, money)" },
+    { "chinese": "一共", "pinyin": "yī gòng", "english": "altogether" },
+    { "chinese": "毛", "pinyin": "Máo; máo", "english": "feather" },
+    { "chinese": "共", "pinyin": "gòng", "english": "common" },
+    { "chinese": "信用卡", "pinyin": "xìn yòng kǎ", "english": "credit card" },
+    { "chinese": "收", "pinyin": "shōu", "english": "to receive" },
+    { "chinese": "千", "pinyin": "qiān; qiān", "english": "thousand" },
+    { "chinese": "信", "pinyin": "xìn", "english": "letter" },
+    { "chinese": "用", "pinyin": "yòng", "english": "to use" },
+    { "chinese": "卡", "pinyin": "kǎ; qiǎ", "english": "card" },
+    { "chinese": "贵", "pinyin": "guì", "english": "expensive" },
+    { "chinese": "便宜", "pinyin": "biàn yí; pián yi", "english": "cheap" },
+    { "chinese": "现金", "pinyin": "xiàn jīn", "english": "cash" },
+    { "chinese": "便", "pinyin": "biàn; pián", "english": "convenient" },
+    { "chinese": "宜", "pinyin": "Yí; yí", "english": "proper" },
+    { "chinese": "金", "pinyin": "Jīn; jīn", "english": "gold" },
+    { "chinese": "太", "pinyin": "tài", "english": "too (much)" },
+    { "chinese": "万", "pinyin": "Mò; Wàn; wàn", "english": "ten thousand" },
+    { "chinese": "行", "pinyin": "háng; xíng", "english": "OK!" }
+  ],
+  "lessonNumber": 25
+}
